@@ -1,0 +1,620 @@
+ Dept,#,Title,Comp Numb,Sec,Lec Lab,Camp Code,Max Enrollment,Current Enrollment,Start Time,End Time,Days,Bldg,Room,Instructor,Credits
+AIS,095,Palestine/Israel:Lit Interven,60994,OL1,L,C,20,7,TBA,,       ,ONLINE,SEE NOTES,Buyze,3
+AIS,095,Mafia&Capitalism-Russian Style,60675,Z1,L,C,20,5,08:30,12:00,M  W  F   ,OMANEX,A500,McKenna,3
+AIS,195,Geography of South Asia,60653,OL1,L,C,20,2,TBA,,       ,ONLINE,SEE NOTES,Bose,3
+AIS,195,UVM in Ghana: A Discovery Prgm,60968,TR1,L,C,12,9,TBA,,       ,OFFCMP,SEE NOTES,Bentil,3
+AIS,195,UVM in Ghana: A Discovery Prgm,61078,TR2,L,C,10,7,TBA,,       ,OFFCMP,SEE NOTES,Bentil,3
+AIS,195,Geography of Canada,60651,Z1,L,C,25,1,17:00,20:30, T W R    ,OMANEX,A202,Deslaurier,3
+AIS,295,Costa Rica for Educators,60952,TR1,L,C,20,2,TBA,,       ,OFFCMP,SEE NOTES,Carvellas,3
+ANFS,491,Doctoral Dissertation,60720,A,T,M,10,1,TBA,,       ,ONCMP,SEE NOTES,Harvey-Ber,1 to 18
+ANNB,201,Human Gross Anatomy,60049,Z1,L,C,54,35,14:01,16:30, T  R    ,GIVN E,E401,May,5
+ANNB,301,Medical Gross Anatomy,60106,Z1,L,C,50,10,13:00,17:00,M T W R F   ,GIVN E,E401,Ezerman,8
+ANNB,391,Master's Thesis Research,60729,A,T,M,10,0,TBA,,       ,,,Forehand,1 to 18
+ANNB,491,Doctoral Dissertation Research,60731,A,T,M,10,0,TBA,,       ,,,Forehand,1 to 18
+ANTH,021,D2: Human Cultures,60872,Z2,L,C,30,8,09:00,11:30,M T W R    ,ROWELL,118,Ziegler-Ot,3
+ANTH,024,D2: Prehistoric Archaeology,60829,OL1,L,C,20,10,TBA,,       ,ONLINE,SEE NOTES,Wesson,3
+ANTH,026,Biological  Anthropology,60823,OL1,L,C,20,20,TBA,,       ,ONLINE,SEE NOTES,Blom,3
+ANTH,028,D2: Linguistic Anthropology,60815,OL1,L,C,20,18,TBA,,       ,ONLINE,SEE NOTES,Dickinson,3
+ANTH,028,D2: Linguistic Anthropology,61077,OL2,L,C,20,15,TBA,,       ,ONLINE,SEE NOTES,Dickinson,3
+ANTH,095,Language and the Mind,60833,OL1,L,C,20,8,TBA,,       ,ONLINE,SEE NOTES,Manetta,3
+ANTH,095,Islam & Cultural Diversity,60835,OL2,L,C,20,7,TBA,,       ,ONLINE,SEE NOTES,Steinberg,3
+ANTH,095,Doing Anthropology,60953,Z1,L,C,25,8,08:30,11:00,M T W R    ,LAFAYE,L200,Torrence,3
+ANTH,142,Introduction to Syntax,60981,OL1,L,C,20,13,TBA,,       ,ONLINE,SEE NOTES,Manetta,3
+ANTH,195,Anthropology of Sports,60825,OL1,L,C,20,20,TBA,,       ,ONLINE,SEE NOTES,Eastman,3
+ANTH,195,Anthropology of Cycle Sport,60826,OL2,L,C,20,6,TBA,,       ,ONLINE,SEE NOTES,Gilley,3
+ANTH,195,Dietrologia:Conspcy&Cul Italy,60827,OL3,L,C,20,5,TBA,,       ,ONLINE,SEE NOTES,Gilley,3
+ANTH,195,Archaeology of the Americas,60831,OL4,L,C,20,8,TBA,,       ,ONLINE,SEE NOTES,Van Keuren,3
+ANTH,195,Gender in the Middle East,60808,OL5,L,C,20,15,TBA,,       ,ONLINE,SEE NOTES,Smith,3
+ANTH,197,Readings & Research,61054,Z2,I,C,1,1,TBA,,       ,,,Gilley,1 to 6
+ANTH,200,Field Work in Archaeology,60832,Z1,L,C,15,8,08:00,16:30,M T W R F   ,ONCMP,SEE NOTES,Van Keuren,6
+ARTH,005,Western Art:Ancient - Medieval,60052,Z1,L,C,25,15,17:00,20:30, T W R    ,WILLMS,402,Mierse,3
+ARTH,170,20th Century Art: 1900-1940,60868,Z1,L,C,25,11,13:00,16:30, T  R    ,WILLMS,402,Stone,3
+ARTS,001,Drawing,60858,Z1,O,C,18,16,09:00,12:15,M T W R    ,WILLMS,416,Fry,3
+ARTS,001,Drawing,60861,Z2,O,C,18,12,12:30,16:45, T  R    ,WILLMS,416,Warren,3
+ARTS,003,Three-Dimensional Studies,60860,Z1,O,C,15,9,13:00,16:15,M T W R    ,WILLMS,206,McDevitt,3
+ARTS,095,Jewlery Perspectives,61174,WD,O,C,1,2,13:00,16:15,       ,,,,3
+ARTS,095,Comics: Drawing a Narrative,60865,Z1,O,C,12,9,09:00,12:15,M T W R    ,WILLMS,305,Fawkes,3
+ARTS,095,Jewelry Perspectives,60867,Z2,O,C,12,9,09:00,13:00,M  W  F   ,WILLMS,202,Peters,3
+ARTS,095,Mural Painting: Hist&Technique,61090,Z4,O,C,15,6,16:00,19:15,M T W R    ,WILLMS,213,Haggart,3
+ARTS,095,Jewelry Perspectives,61134,Z5,O,C,12,6,13:00,17:00,M  W  F   ,WILLMS,202,Peters,3
+ARTS,114,Clay: Wheel Throwing,60862,Z1,O,C,15,9,09:00,12:15,M T W R    ,WILLMS,106,Carter,3
+ARTS,121,Painting,60864,Z1,O,C,15,15,09:00,16:00,   R    ,WILLMS,213,Davis,3
+ARTS,141,Sculpture,60866,Z1,O,C,14,13,13:00,16:15,M T W R    ,WILLMS,416,McDevitt,3
+ARTS,195,Clay: Raku,60863,Z1,O,C,15,13,09:00,12:15,M T W R    ,WILLMS,106,Carter,3
+ASCI,043,Fundamentals of Nutrition,60587,OL1,L,C,10,2,TBA,,       ,ONLINE,SEE NOTES,Paradis,3
+ASCI,043,Fundamentals of Nutrition,60219,OL2,L,C,15,0,TBA,,       ,ONLINE,SEE NOTES,Paradis,3
+ASCI,134,CREAM,60221,Z1,L,C,7,2,TBA,,       ,OFFCMP,SEE NOTES,Barlow,4
+ASCI,135,CREAM,60223,Z1,L,C,7,0,TBA,,       ,OFFCMP,SEE NOTES,Barlow,4
+ASCI,297,Zoos Exotics EndangeredSpecies,61052,TR1,L,C,14,13,TBA,,       ,OFFCMP,SEE NOTES,Erickson,3
+ASCI,391,Master's Thesis Research,60736,A,T,M,15,1,TBA,,       ,,,Staff,1 to 10
+BIOC,391,Master's Thesis Research,61120,A,T,M,5,0,TBA,,       ,,,Staff,1 to 12
+BIOC,491,Doctoral Dissertation Research,61121,A,T,M,18,5,TBA,,       ,,,Staff,1 to 12
+BIOL,001,Principles of Biology,60187,Z01,B,C,20,19,13:00,16:30, T  R    ,ML SCI,114,Farrell,0
+BIOL,001,Principles of Biology,60182,Z02,B,C,20,18,08:30,12:00, T  R    ,ML SCI,114,Farrell,0
+BIOL,001,Principles of Biology,60591,Z1,L,C,40,37,08:30,12:00,M  W  F   ,LAFAYE,L403,Farrell,4
+BIOL,002,Principles of Biology,60189,Z01,B,C,20,18,08:30,12:00, T  R    ,ML SCI,114,Farrell,0
+BIOL,002,Principles of Biology,60191,Z02,B,C,20,14,13:00,16:30, T  R    ,ML SCI,114,Farrell,0
+BIOL,002,Principles of Biology,60590,Z1,L,C,40,32,08:30,12:00,M  W  F   ,LAFAYE,L300,Farrell,4
+BIOL,003,Human Biology,60610,Z1,L,C,32,14,08:30,12:00, T W R    ,LAFAYE,L411,Mitchell,3
+BIOL,193,Internship in Biology,60655,Z1,I,C,5,4,TBA,,       ,,,Vigoreaux,3
+BIOL,197,Undergraduate Research,60656,Z1,T,C,5,3,TBA,,       ,,,Vigoreaux,3 or 6
+BIOL,381,Independent research Helix,60669,Z1,L,C,5,2,TBA,,       ,ONCMP,SEE NOTES,Bress,0 to 4
+BIOL,391,Master's Thesis Rsch,60666,A,T,M,5,0,TBA,,       ,,,VanHouten,1 to 10
+BIOL,491,Doctoral Dissertation Rsch,60667,A,T,M,12,5,TBA,,       ,,,VanHouten,1 to 10
+BSAD,017,Business Law,60229,OL1,L,C,25,6,TBA,,       ,ONLINE,SEE NOTES,Kasper,3
+BSAD,018,Business Law,60611,OL1,L,C,25,10,TBA,,       ,ONLINE,SEE NOTES,Kasper,3
+BSAD,060,Financial Accounting,60230,Z1,L,C,30,11,09:00,11:30,M T W R    ,KALKIN,110,Dempsey,3
+BSAD,061,Managerial Accounting,60232,Z1,L,C,30,21,09:00,11:30,M T W R    ,KALKIN,325,Hodgdon,3
+BSAD,065,Fundamentals of Accounting,60855,Z1,L,C,30,9,09:00,11:30,M T  R F   ,KALKIN,004,Woodman,4
+BSAD,101,Business Savvy,60857,Z1,L,C,36,18,08:30,19:00,M T W R F S U ,KALKIN,325,Tomas,6
+BSAD,120,Prin Mgmt & Org Behavior,60242,Z1,L,C,30,8,13:00,16:30,M  W  F   ,KALKIN,001,Jones,3
+BSAD,132,Political Envir of Business,60246,Z1,L,C,20,11,08:00,11:30,M T W R    ,KALKIN,004,Vanden Ber,3
+BSAD,141,Mgmt Information Systems,60250,Z1,L,C,20,8,13:00,16:30,M  W  F   ,KALKIN,004,Kraushaar,3
+BSAD,150,Marketing Management,60258,Z1,L,C,20,10,09:00,13:00,M T W R F   ,KALKIN,001,Noordewier,3
+BSAD,173,Production&Operations Analysis,60262,Z1,L,C,40,10,17:00,20:30, T  R    ,KALKIN,003,McDowell,3
+BSAD,180,Managerial Finance,60263,Z1,L,C,30,26,12:30,15:00,M T W R    ,LAFAYE,L108,Dempsey,3
+BSAD,191,Strategy and Competition,60918,Z1,L,C,20,7,13:00,16:00,M T W R F   ,VOTEY,367,Meier,3
+BSAD,195,Doing Business in China,60894,TR1,L,C,30,19,TBA,,       ,OFFCMP,SEE NOTES,Gurdon,3
+BSAD,195,Ethics & Social Responsibility,61075,Z1,L,C,10,0,TBA,,       ,OFFCMP,SEE NOTES,Gurdon,3
+BSAD,195,Marketing in the NAFTA Region,61076,Z2,L,C,10,0,TBA,,       ,OFFCMP,SEE NOTES,Gurdon,3
+BSAD,295,Sustainable Business,60282,Z3,L,C,30,16,08:30,20:30,M T W R F   ,,,Erickson,3
+BSAD,295,Changing Labor Mkts-Aging&Work,60897,Z4,L,C,18,11,08:00,16:00,M T W R F   ,KALKIN,322,McIntosh,3
+BSAD,376,Mgmt of Change in Organization,60919,Z1,L,C,40,8,17:00,20:30, T W R    ,KALKIN,004,Rutledge,3
+BSAD,395,Collaborative Management Inst,60285,Z1,L,C,45,9,16:00,20:30,M  W     ,VOTEY,105,Gurdon,3
+CDAE,095,Home/Design Build,60998,YM1,L,C,5,5,TBA,,M T W R F S U ,OFFCMP,SEE NOTES,Walker,3
+CDAE,095,Home/Design Build,60999,YM2,L,C,4,4,TBA,,M T W R F S U ,OFFCMP,SEE NOTES,Ringel,3
+CDAE,095,Home Design,61000,YM3,L,C,5,0,TBA,,M T W R F S U ,OFFCMP,SEE NOTES,Inglese,2
+CDAE,095,Biofuels,61001,YM4,L,C,5,2,TBA,,    F S U ,OFFCMP,SEE NOTES,Oldrid,1
+CDAE,095,Biofuels,61002,YM5,L,C,5,0,TBA,,    F S U ,OFFCMP,SEE NOTES,Oldrid,1
+CDAE,095,Solar Design,61013,YM6,L,C,2,3,TBA,,     S U ,OFFCMP,SEE NOTES,Dier III,1
+CDAE,095,Green Roof Design & Installati,61019,YM7,L,C,2,0,TBA,,M T W R F  U ,OFFCMP,SEE NOTES,Pierce-Del,2
+CDAE,095,Green Home Design,61022,YM8,L,C,4,0,TBA,,     S U ,OFFCMP,SEE NOTES,Sagan,1
+CDAE,095,Greenhouse Design/Build,61024,YM9,L,C,1,1,TBA,,     S U ,OFFCMP,SEE NOTES,Lutz,1
+CDAE,095,Deconstruct & Materials Re-use,61027,YMA,L,C,2,0,TBA,,M T W R F  U ,OFFCMP,SEE NOTES,Guy,2
+CDAE,095,Constr Wetlands for Water Trea,61026,YMB,B,C,3,0,TBA,,M T W R F  U ,OFFCMP,SEE NOTES,Munoz,2
+CDAE,095,Reuse: Recycle,61028,YMC,D,C,5,0,TBA,,M T W R F S U ,OFFCMP,SEE NOTES,Nicholas,2
+CDAE,095,Green Building Materials,61032,YMD,L,C,4,0,TBA,,     S U ,OFFCMP,SEE NOTES,Wilts,1
+CDAE,127,Consumer Markets&Public Policy,60346,OL1,L,C,25,24,TBA,,       ,ONLINE,SEE NOTES,Ashman,3
+CDAE,157,Consumer Law and Policy,60345,OL1,L,C,25,14,TBA,,       ,ONLINE,SEE NOTES,Ashman,3
+CDAE,159,Consumer Assistance Program,60745,Z1,L,C,10,0,08:30,12:00,M T W R    ,ONCMP,SEE NOTES,Wagner,3 to 6
+CDAE,166,Intro to Comm Entrepreneurship,60328,Z1,L,C,20,3,08:30,12:00,M T W R    ,ROWELL,244,Liang,3
+CDAE,195,Community Design Summer Studio,60769,CR1,L,C,15,3,09:00,17:00,M T W R F   ,OFFCMP,SEE NOTES,Montgomery,3
+CDAE,195,Community Design/Build,61016,YM1,L,C,1,1,TBA,,M T W R F S U ,OFFCMP,SEE NOTES,Badanes,3
+CDAE,195,PR for Nonprofits,60818,Z2,L,C,20,2,08:30,12:00,M T W R    ,,,McCorkinda,3
+CDAE,195,College Media Practicum,61093,Z3,A,C,1,1,TBA,,       ,ONCMP,SEE NOTES,Evans,0 to 12
+CDAE,196,Field Experience/Practicum,60652,Z1,I,C,25,4,TBA,,       ,,,Ferreira,1 to 15
+CDAE,254,Microeconomics for Appl Econ,60363,Z1,L,C,20,7,08:30,12:00,M T W R    ,VOTEY,209,Wang,3
+CDAE,295,Community Design Summer Studio,60849,CR1,L,C,15,2,09:00,17:00,M T W R F   ,OFFCMP,SEE NOTES,Montgomery,3
+CDAE,295,Data Mgmt & Analysis in EXCEL,60723,Z1,L,C,20,4,13:00,16:30,M T W R    ,LAFAYE,L111,Liang,3
+CDAE,295,Energy Policy,60748,Z2,L,C,20,1,17:00,20:30,M T W R    ,LAFAYE,L100,Flomenhoft,3
+CDAE,295,PR for Nonprofits,60819,Z5,L,C,15,3,08:30,12:00,M T W R    ,,,McCorkinda,3
+CDAE,295,SL:Hardwick Cmty Dev & Design,61064,Z6,L,C,20,1,12:30,16:30,M T W R F   ,UHTS,009,Gayer,3
+CDAE,296,Field Experience/Practicum,60654,Z1,I,C,25,21,TBA,,       ,,,Ferreira,1 to 15
+CDAE,391,Master's Thesis Research,61193,Z1,T,C,10,1,TBA,,       ,ONCMP,SEE NOTES,Kolodinsky,1 to 18
+CE,391,Master Thesis Rsch,61153,A,T,M,1,1,TBA,,       ,,,Dewoolkar,1 to 12
+CE,491,Doctoral Dissertation Research,61163,A,T,M,1,1,TBA,,       ,,,Staff,1 to 18
+CHEM,031,General Chemistry 1,60010,Z1,L,C,60,45,13:00,16:00,M T W  F   ,ONCMP,SEE NOTES,Sharp,4
+CHEM,032,General Chemistry 2,60011,Z1,L,C,60,42,13:00,16:00,M T W  F   ,ONCMP,SEE NOTES,Sharp,4
+CHEM,141,Organic Chemistry 1,60012,Z1,L,C,80,43,13:00,16:00,M T W  F   ,ONCMP,SEE NOTES,Horn,4
+CHEM,142,Organic Chemistry 2,61204,WD,L,C,1,1,13:00,16:00,       ,,,,4
+CHEM,142,Organic Chemistry 2,60013,Z1,L,C,80,35,13:00,16:00,M T W  F   ,ONCMP,SEE NOTES,Horn,4
+CHEM,295,VSSP:Physical Sciences,61202,Z1,L,C,8,5,09:00,15:00,M T W R F   ,ONCMP,SEE NOTES,Waterman,3
+CLBI,391,Master's Thesis Research,61099,A,T,M,10,0,TBA,,       ,,,Staff,1 to 12
+CLBI,491,Doctoral Dissertation Research,61100,A,T,M,40,9,TBA,,       ,,,Staff,1 to 12
+CMSI,001,American Sign Language I,60592,Z1,L,C,18,8,12:30,16:30,M T W R    ,LAFAYE,L403,Bearman,4
+CMSI,001,American Sign Language I,60593,Z2,L,C,18,6,08:30,12:00,M T W R    ,MORRIL,010,Bearman,4
+CMSI,001,American Sign Language I,60974,Z3,L,C,18,4,12:30,16:30,M T W R    ,LAFAYE,L308,Bearman,4
+CMSI,164,Structure of English Language,60028,OL1,L,C,5,5,TBA,,       ,ONLINE,SEE NOTES,Roberts,3
+CMSI,164,Structure of English Language,60625,OL2,L,C,20,20,TBA,,       ,ONLINE,SEE NOTES,Roberts,3
+CMSI,164,Structure of English Language,61088,OL3,L,C,20,10,TBA,,       ,ONLINE,SEE NOTES,Roberts,3
+CMSI,166,Introduction to Syntax,61092,OL1,L,C,20,1,TBA,,       ,ONLINE,SEE NOTES,Manetta,3
+CMSI,195,Certified Deaf Interp Prep Crs,60257,Z1,L,C,16,1,09:00,16:00,M T W R F   ,LAFAYE,L411,Ogrizovich,2
+CMSI,271,Introduction to Audiology,60044,OL1,L,C,20,13,TBA,,       ,ONLINE,SEE NOTES,Adams,3
+CMSI,291,Clinical Study,60923,Z1,L,C,20,10,TBA,,       ,ONCMP,SEE NOTES,Mulligan,1
+CMSI,295,Autism Summer Institute,60025,SB1,L,C,30,15,TBA,,M T W R F   ,OFFCMP,SEE NOTES,Prelock,3
+CMSI,295,Reading in Swallowing Disorder,61171,Z2,I,C,1,1,TBA,,       ,,,Mulligan,1
+CS,008,Introduction: WWW Design (2-2),60358,OL1,L,C,15,8,TBA,,       ,ONLINE,SEE NOTES,Erickson,3
+CS,008,Introduction: WWW Design (2-2),60595,Z1,L,C,25,14,09:00,11:30,M T W R    ,TERRIL,207,Erickson,3
+CS,014,Visual Basic Programming,60002,OL1,L,C,25,10,TBA,,       ,ONLINE,SEE NOTES,Redmond,3
+CS,021,Computer Programming I,60001,OL1,L,C,25,6,TBA,,       ,ONLINE,SEE NOTES,Redmond,4
+CS,021,Computer Programming I,61176,WD,L,C,1,1,TBA,,       ,,,,0 or 4
+CS,195,Advanced Web Design: CSS and U,60793,OL1,L,C,25,7,TBA,,       ,ONLINE,SEE NOTES,Erickson,3
+CS,391,Master's Thesis Research,61152,A,T,M,10,0,TBA,,       ,,,Staff,1 to 18
+CS,491,Doctoral Dissertation Research,61144,A,T,M,10,3,TBA,,       ,,,Staff,1 to 18
+CTS,301,Design Clin&Translational Res,60956,A,L,M,12,5,13:00,15:45, T  R    ,OFFCMP,SEE NOTES,Kennedy,3
+CTS,391,Master's Thesis Research,61087,A,T,M,10,0,TBA,,       ,,,Staff,1 to 18
+CTS,395,ST in Clin & Translational Res,61122,A,L,M,1,1,TBA,,       ,ONCMP,SEE NOTES,Rubin,6
+CTS,491,Doctoral Dissertation Research,61145,A,T,M,1,1,TBA,,       ,,,Rubin,1 to 18
+DNCE,095,Hip-Hop,60954,Z1,L,C,24,7,16:30,18:30, T  R    ,MANN,GYM,Gamble,1
+EC,011,Principles of Macroeconomics,60080,Z1,L,C,25,8,13:00,16:30, T W R    ,LAFAYE,L311,Sicotte,3
+EC,011,Principles of Macroeconomics,60663,Z2,L,C,25,5,09:00,11:30,M T W R    ,LAFAYE,L100,Thomson,3
+EC,011,Principles of Macroeconomics,61211,Z3,L,C,1,1,09:00,11:30,       ,,,,3  
+EC,012,Principles of Microeconomics,61037,OL1,L,C,25,17,TBA,,       ,ONLINE,SEE NOTES,Gedeon,3
+EC,012,Principles of Microeconomics,61212,WD,L,M,0,1,TBA,,       ,,,,3
+EC,012,Principles of Microeconomics,60142,Z2,L,C,25,17,13:00,16:30, T W R    ,LAFAYE,L311,Oyolola,3
+EC,172,Microeconomic Theory,60144,Z1,L,C,25,5,08:30,12:00,M  W  F   ,LAFAYE,L311,Mora,3
+EC,195,Intermediate Special Topics,61036,A,L,C,1,1,TBA,,       ,ONCMP,SEE NOTES,Gedeon,3
+EC,297,Readings & Research,61160,Z1,T,C,1,1,TBA,,       ,ONCMP,SEE NOTES,Gedeon,3
+ECSP,210,Curriculum in EI/ECSE,60874,Z1,L,C,5,4,17:00,20:30, T  R    ,ONCMP,SEE NOTES,Hurley,4
+ECSP,295,Introduction to EI/ECSE,61214,MT1,L,C,10,0,08:30,16:00,       ,OFFCMP,SEE NOTES,Rogers,3
+ECSP,295,Early Childhood Sp Ed Internsp,61183,SW1,L,C,3,3,TBA,,       ,ONCMP,SEE NOTES,Fonseca,2
+ECSP,310,Curriculum in EI/ECSE,60875,Z1,L,C,5,0,17:00,20:30, T  R    ,ONCMP,SEE NOTES,Hurley,3
+ECSP,397,Problems in Education,60985,Z1,I,C,5,3,08:00,16:00, T  R    ,ONCMP,SEE NOTES,Hurley,1 to 6
+EDCI,200,Integrating Technology Part 2,61055,BU2,L,C,25,21,08:00,17:00,M T W R F   ,OFFCMP,SEE NOTES,Bongiorno,3
+EDCI,200,Crtng Stndrds Fcsd Proj Curr,61118,ET3,L,C,20,12,08:00,16:00,M T      ,OFFCMP,SEE NOTES,Thompson,3
+EDCI,200,Math As A Second Language,61136,ET4,L,C,30,0,08:00,16:45,M T W R F   ,OFFCMP,SEE NOTES,Ojala,3
+EDCI,200,Transforming Schools Seminar,61194,LY1,L,C,20,4,08:30,16:00,M T W R    ,OFFCMP,SEE NOTES,Berthiaume,3
+EDCI,200,Transforming Schools Together,61195,LY2,L,C,20,1,08:30,16:00,M T W R F   ,OFFCMP,SEE NOTES,Beattie,3
+EDCI,200,Math for the K-8 Educator II,61117,MI1,L,C,30,0,08:00,16:30,M T W R F   ,OFFCMP,SEE NOTES,Laird,3
+EDCI,200,Math for the K-8 Educator II,61115,NC1,L,C,30,0,08:00,16:30,M T W R F   ,OFFCMP,SEE NOTES,Wright,3
+EDCI,200,Lrn Thery:Instr Desgn&Tech,60963,OL3,L,C,18,12,TBA,,       ,ONLINE,SEE NOTES,Lathem,3
+EDCI,200,Decision Making&Character Educ,61133,SA1,L,C,30,5,08:00,17:00,M T W R F   ,OFFCMP,SEE NOTES,Whitworth,3
+EDCI,200,Engaging Students as Writers,61185,SA2,L,C,100,2,07:30,14:30,  W R F   ,OFFCMP,SEE NOTES,Reimers,3
+EDCI,200,Teaching Industrial Revolution,61132,SW1,L,C,20,12,15:00,18:00,     S  ,OFFCMP,SEE NOTES,Rooker,3
+EDCI,200,Costa Rica for Educators,60443,TR2,L,C,20,13,TBA,,       ,OFFCMP,SEE NOTES,Carvellas,3
+EDCI,200,Math for the K-8 Educator II,61114,WR1,L,C,30,9,08:00,16:45,M T W R F   ,OFFCMP,SEE NOTES,Ojala,3
+EDCI,200,Math as a Second Language,60928,Z0,L,C,45,42,08:00,16:45,M T W R F   ,ROWELL,118,Ojala,3
+EDCI,200,Writ Across Disciplinesw/Tech,60626,Z1,L,C,18,5,08:00,16:00,M T W R F   ,WATERM,113T,Elizabeth,3
+EDCI,200,Gender Equity in Education,60883,Z4,L,C,28,5,08:00,17:00,M T W R F   ,ROWELL,118,Whitworth,3
+EDCI,200,Bldg Stdnts SelfEsteem&Comm Sk,60884,Z5,L,C,28,9,08:00,17:00,M T W R F   ,LAFAYE,L302,Whitworth,3
+EDCI,200,Dev Lit: Digital Storytelling,60916,Z6,L,C,15,10,12:30,16:30,       ,ONLINE,SEE NOTES,Lathem,3
+EDCI,200,Number Theory for Teachers,60925,Z7,L,C,30,21,08:00,16:45,M T W R F   ,ROWELL,111,Laird,3
+EDCI,200,Alg & Functions for Teachers,60926,Z8,L,C,45,40,08:00,16:45,M T W R F   ,ROWELL,118,Ojala,3
+EDCI,200,Calculus for Teachers  I,60927,Z9,L,C,40,28,08:00,16:45,M T W R F   ,ROWELL,118,Ojala,3
+EDCI,200,Stat  Act. Res & Inq  I,60929,ZA,L,C,40,22,08:00,16:45,M T W R F   ,ROWELL,111,Laird, Jr.,3
+EDCI,200,Stat  Act. Res & Inq  III,60930,ZB,L,C,40,28,08:00,16:45,M T W R F   ,LAFAYE,L207,Laird, Jr.,3
+EDCI,200,Writg Prj VT Thry&Prt Tchg Wrt,61043,ZD,L,C,4,2,09:00,16:00,M T W R    ,TERRIL,308,Parent,6
+EDCI,200,Satellites  Westher  & Climate,61197,ZG,L,C,8,1,09:00,15:00,M T W R F   ,ONCMP,SEE NOTES,Toolin,3
+EDCI,295,ePortfolios for Learning,61141,OL1,I,C,1,1,TBA,,       ,ONLINE,SEE NOTES,Lathem,3
+EDCI,295,Institute in China,60450,TR1,I,C,15,11,TBA,,       ,OFFCMP,SEE NOTES,Waterman,1
+EDCO,291,Career & College Planning,60838,WN1,L,C,20,13,09:00,16:00,M T      ,OFFCMP,,Ganguly,1
+EDCO,291,Happiness  Mindfulness&Hlth Pr,60824,Z1,L,C,25,11,08:30,13:00,M T W R F   ,LAFAYE,L107,Quintilian,3
+EDCO,291,Help People Live Longer&Better,60837,Z4,L,C,15,7,08:30,13:30,M T W R F   ,MANN,211,Nichols,2
+EDCO,291,Treating Eating Disorders,60843,Z6,L,C,15,9,09:00,16:00,  W R    ,MANN,102C,Daniere,1
+EDCO,291,Crisis Interv:Assess De-Es&Deb,60846,Z7,L,C,12,9,09:00,16:00,   R F   ,MANN,211,Stevens,1
+EDCO,363,Counseling Practicum,60814,Z1,L,C,1,3,09:00,13:00, T      ,MANN,108C,Smith,1
+EDCO,384,Intern:Mental Hlth Counseling,60040,Z1,L,C,10,8,09:00,13:00, T      ,MANN,108C,Smith,1 to 12
+EDCO,394,Research Methods in Counselng,60058,Z1,L,C,14,13,09:00,14:00,M T W R    ,WATERM,426,Wartinger,3
+EDCO,394,Motivational Interviewing,60836,Z2,L,C,18,13,08:30,16:00,M T      ,MANN,211,Pickering,1
+EDEC,189,Early Childhood Practices,60088,Z1,I,C,5,4,15:00,17:00, T      ,ONCMP,SEE NOTES,Lawson,12
+EDEC,295,Investigate preK-3 Sci&Soc St,61215,MT1,L,C,5,0,TBA,,       ,OFFCMP,SEE NOTES,Fonseca,3
+EDEC,295,Early Language & Literacy Dev,60544,WT1,L,C,8,5,TBA,,       ,OFFCMP,SEE NOTES,Ross,3
+EDFS,209,Intro to Research Methods,60321,Z1,L,C,12,10,09:00,12:00,M T W R F   ,LAFAYE,L308,Hurley,3
+EDFS,303,Ethics Helping Relationships,60932,Z1,L,C,15,7,08:30,13:00,M T W R F   ,LAFAYE,L307,Bass,3
+EDFS,322,D1:ChallengeofMulticulturalism,61046,Z2,L,C,16,16,17:00,20:30, T W R    ,ALLEN,104,Smith,3
+EDFS,348,Analyze&Write Qualitative Rsch,61053,Z2,L,C,15,9,08:30,13:00,M T W R F   ,ALLEN,204,Glesne,3
+EDFS,377,Seminar Educational Psychology,60382,Z1,L,C,12,14,09:00,12:00,M T W R F   ,WATERM,426,Rathbone,3
+EDFS,397,Readings and Research,60460,Z1,L,C,5,1,TBA,,       ,,,Shiman,1 to 6
+EDFS,397,Problems in Education,61154,Z3,T,C,1,1,TBA,,       ,,,Nash,1 to 6
+EDHE,200,HIV & STI: Instruct Stategies,61127,OL1,L,C,12,10,TBA,,       ,ONLINE,SEE NOTES,Cassi,1
+EDHE,200,Stress-Resliency for Tchrs&Oth,60917,Z1,L,C,40,2,08:30,12:00,       ,ONLINE,SEE NOTES,Ibragic-Bu,3
+EDHE,200,Injury and Violence Prevention,61213,Z4,L,C,5,0,TBA,,       ,ONLINE,SEE NOTES,Tarallo-Fa,1
+EDHI,363,Controversies of the Academy,60057,Z1,L,C,20,11,12:30,16:00,M T W R    ,MANN,211,Hunter,3
+EDHI,380,Intro to Research in Higher Ed,61175,WD,L,C,1,1,12:30,16:00,       ,,,,3
+EDHI,380,Intro to Research in Higher Ed,60335,Z1,L,C,12,10,12:30,16:00,M T W R F   ,MANN,211,McCoy,3
+EDHI,397,Problems in Education,61184,A,T,M,4,2,TBA,,       ,,,Hunter,1 to 6
+EDHI,397,Problems in Education,61142,Z1,L,C,4,2,TBA,,       ,ONCMP,SEE NOTES,McCoy,1 to 6
+EDHI,491,Doctoral Dissertation Research,60649,A,T,M,10,0,TBA,,       ,,,Hunter,1 to 12
+EDLI,200,Ch/YA Literature,60596,DL1,L,C,20,24,16:30,18:30,M  W     ,OFFCMP,SEE NOTES,Tkach,3
+EDLP,266,Educational Finance,60081,Z1,L,C,12,12,08:00,12:30,M T W R F   ,LAFAYE,L207,Mathis,3
+EDLP,268,Educational Law,60082,Z1,L,C,40,19,08:00,17:00,M T W R F   ,WATERM,427,Reedy,3
+EDLP,380,Incident Analysis & Leadership,60910,Z1,L,C,15,14,17:00,21:00,M T W R F   ,LAFAYE,L202,Killeen,3
+EDLP,380,Collaborative Management Inst,61091,Z3,L,C,45,1,16:00,20:30,M  W     ,VOTEY,105,Gurdon,3
+EDLP,386,Org & Human Resource Dev,60873,Z1,L,C,15,4,17:00,20:30,M T W R    ,WATERM,458,Johnson, I,3
+EDLP,397,Independent Study,60878,Z1,L,C,10,5,TBA,,       ,ONCMP,SEE NOTES,Killeen,1 to 6
+EDLP,397,Independent Study,61040,Z4,L,C,5,5,TBA,,       ,ONCMP,SEE NOTES,Johnson, I,1 to 6
+EDLP,397,Independent Study,61066,Z6,I,C,5,1,TBA,,       ,,,Hurley,1 to 6
+EDLP,397,Independent Study,61067,Z7,I,C,5,4,TBA,,       ,,,Aiken,1 to 6
+EDLP,491,Doctoral Dissertation Research,60880,A,T,M,10,5,TBA,,       ,ONCMP,SEE NOTES,Hasazi,1 to 12
+EDLP,491,Doctoral Dissertation Research,60881,B,T,M,10,3,TBA,,       ,ONCMP,SEE NOTES,Aiken,1 to 12
+EDLT,200,Dif Lit Instruction w/Tech,60959,CO1,L,C,20,7,08:00,12:30,M T W R F   ,OFFCMP,SEE NOTES,Marino,3
+EDLT,200,Using Literacy Profiles K-4,61107,ES1,L,C,15,10,08:00,13:00,M T W R    ,OFFCMP,SEE NOTES,Biggam,2
+EDLT,200,Strgn Instr Practices,60351,SW1,L,C,300,6,08:30,15:00,M T W     ,OFFCMP,SEE NOTES,Chomsky-Hi,1
+EDLT,375,Lit Assmt:Understand Indiv Dif,61045,WN1,L,C,20,5,08:00,16:00,M T W R F   ,OFFCMP,SEE NOTES,Blouin,3
+EDML,200,Trans MIddle Grades w/Inn Tech,61181,ML1,L,C,25,11,08:00,16:00,  W     ,OFFCMP,SEE NOTES,Downes,3
+EDML,200,Embedded Literacy in Mid Grdes,60422,RA1,L,C,150,5,08:00,21:00,M T W R   U ,OFFCMP,SEE NOTES,Reyes,3
+EDML,200,Nature & Needs of Early Adoles,60424,RA2,L,C,150,6,08:00,21:00,M T W R   U ,OFFCMP,SEE NOTES,Reyes,3
+EDML,200,Middle Grades:Plan&Work Team,60429,RA3,L,C,150,2,08:00,21:00,M T W R   U ,OFFCMP,SEE NOTES,Reyes,3
+EDML,200,Curriculum Instruc & Assess,60451,RA5,L,C,150,4,08:00,21:00,M T W R   U ,OFFCMP,SEE NOTES,Reyes,3
+EDML,200,Mid Sch for Postsecond Success,61182,RA6,L,C,50,0,12:00,17:00,  W     ,OFFCMP,SEE NOTES,Toolin,3
+EDML,270,Middle School Org & Pedagogy,60428,RA1,L,C,150,5,08:00,21:00,M T W R   U ,OFFCMP,SEE NOTES,Reyes,3
+EDML,270,Middle School Org & Pedagogy,60319,Z1,L,C,25,9,09:00,13:00,M T W R F   ,WATERM,426,Allen-Mall,3
+EDPE,166,Kinesiology,60967,OL1,L,C,30,18,TBA,,       ,ONLINE,SEE NOTES,Connolly,3
+EDPE,173,Practicum in Field Experience,61123,Z1,I,C,20,2,TBA,,       ,PATGYM,008,Connolly,1 to 4
+EDPE,197,Readings & Research,61124,Z1,T,C,20,7,TBA,,       ,PATGYM,008,Connolly,3
+EDPE,200,Women's Fitness Institute,61208,WD,L,C,1,1,TBA,,       ,,,,1 to 6
+EDPE,200,Women's Fitness Institute,60385,Z1,L,C,20,15,08:00,16:30,M T W R F  U ,ONCMP,SEE NOTES,Connolly,3
+EDPE,230,Philosophy of Coaching,60988,OL1,L,C,50,8,08:30,17:00,M T W R F   ,OFFCMP,SEE NOTES,Connolly,3
+EDSC,207,Adolscnt Dev:Ed/Psy Perspec,60215,Z1,L,C,15,14,08:30,16:00,M T W R F   ,WATERM,413,Prue,3
+EDSP,200,Consult & Co Teaching in ISE,61061,OL1,L,C,16,9,TBA,,       ,ONLINE,SEE NOTES,Fox,3
+EDSP,200,Special Education Law,60086,Z1,L,C,25,14,08:00,13:00,M T W R F   ,WATERM,457,Page,3
+EDSP,295,BEST-Accentuate the Positive,61034,KL1,L,C,100,75,07:30,17:00,M T W R    ,OFFCMP,SEE NOTES,Suter,3
+EDSP,296,Woodcock Johnson III,60087,Z1,L,C,18,11,08:00,15:30,M T W R F   ,WATERM,539,Reid,3
+EDSP,302,Phys&Dev Char of Indiv w/Disab,60989,OL1,L,C,20,17,TBA,,       ,ONLINE,SEE NOTES,Iverson,3
+EDSS,055,Special Topics,61199,Z2,I,C,3,0,TBA,,       ,,,Bossange,1 to 6
+EDSS,197,Readings & Research,61200,Z1,T,C,3,0,TBA,,       ,,,Bossange,1 to 4
+EDSS,200,Field Trip:Hist Lake Champlain,60233,Z2,L,C,13,8,08:00,16:30,M T W R F   ,NCOMPX,016,Beller,3
+EDSS,200,Natl Writg Proj in VT Inv Inst,60337,Z6,L,C,25,11,09:00,16:00,M T W R    ,TERRIL,308,Parent,6
+EDSS,239,S.L.I.P. Seminar,60465,SW1,L,C,20,5,TBA,,       ,OFFCMP,SEE NOTES,Barritt,1 to 12
+EDSS,295,Readings and Research in Educ,61156,Z1,T,C,5,1,TBA,,       ,,,Conley,3
+EE,295,Software Defined Radio I,61086,Z1,L,C,3,3,TBA,,       ,ONCMP,SEE NOTES,Xia,3
+ENGS,001,Written Expression,60113,OL1,L,C,18,8,TBA,,       ,ONLINE,SEE NOTES,Goodson,3
+ENGS,001,Written Expression,60678,OL3,L,C,20,12,TBA,,       ,ONLINE,SEE NOTES,Ljung-Baru,3
+ENGS,001,Written Expression,60990,OL4,L,C,20,14,TBA,,       ,ONLINE,SEE NOTES,Grosvenor,3
+ENGS,001,Written Expression,60659,Z1,L,C,22,7,09:00,11:30,M T W R    ,LAFAYE,L102,Houton,3
+ENGS,001,Written Expression,60658,Z2,L,C,22,21,08:30,11:00,M T W R    ,LAFAYE,L400,Grosvenor,3
+ENGS,013,Introduction to Fiction,60245,OL1,L,C,20,16,TBA,,       ,ONLINE,SEE NOTES,Noel,3
+ENGS,014,Introduction to Poetry,60682,Z1,L,C,25,6,12:30,15:00,M T W R    ,LAFAYE,L311,Cramer,3
+ENGS,021,British Literature,60683,OL1,L,C,20,11,TBA,,       ,ONLINE,SEE NOTES,McLaughlin,3
+ENGS,024,American Literature,60061,OL1,L,C,20,10,TBA,,       ,ONLINE,SEE NOTES,Chira,3
+ENGS,050,Expository Writing,60134,OL1,L,C,18,18,TBA,,       ,ONLINE,SEE NOTES,Howe,3
+ENGS,053,Intro to Creative Writing,60266,OL1,L,C,18,16,TBA,,       ,ONLINE,SEE NOTES,Izzo,3
+ENGS,053,Intro to Creative Writing,60684,Z1,L,C,20,11,09:00,11:30,M T W R    ,LAFAYE,L311,Davis,3
+ENGS,057,D1:Race&Ethnic Lit Stds:Intro,60275,OL1,L,C,20,15,TBA,,       ,ONLINE,SEE NOTES,Turner,3
+ENGS,057,D1:Race&Ethnic Lit Stds:Intro,60739,OL2,L,C,20,14,TBA,,       ,ONLINE,SEE NOTES,Witters,3
+ENGS,057,D1:Race&Ethnic Lit Stds:Intro,60567,OL3,L,C,20,14,TBA,,       ,ONLINE,SEE NOTES,Turner,3  
+ENGS,095,Tolkien's Middle-Earth,60280,OL1,L,C,20,6,TBA,,       ,ONLINE,SEE NOTES,Vaccaro,3
+ENGS,095,Studies in Canadian Writers,60686,OL2,L,C,20,7,TBA,,       ,ONLINE,SEE NOTES,Martin,3
+ENGS,095,Writing Poetry,60705,OL3,L,C,18,11,TBA,,       ,ONLINE,SEE NOTES,Jackson,3
+ENGS,095,Amer Sounds:Ballads Blues&Root,60896,OL4,L,C,20,7,TBA,,       ,ONLINE,SEE NOTES,Greenberg,3
+ENGS,095,Tolkien's Middle-Earth,60991,OL5,L,C,20,12,TBA,,       ,ONLINE,SEE NOTES,Vaccaro,3
+ENGS,101,Structure of English Language,60993,OL1,L,C,15,12,TBA,,       ,ONLINE,SEE NOTES,Roberts,3
+ENGS,101,Structure of English Language,61089,OL2,L,C,20,7,TBA,,       ,ONLINE,SEE NOTES,Roberts,3
+ENGS,111,D1:Reading Race  Seeing Race,60138,Z1,L,C,18,6,12:30,15:00,M T W R    ,LAFAYE,L200,Huh,3
+ENGS,113,Irish Literature and Film,60687,Z1,L,C,25,12,17:00,19:30,M T W R    ,LAFAYE,L311,Bradley,3
+ENGS,114,Writing Memoir,60073,Z1,L,C,16,14,12:30,15:30,M T W R    ,OMANEX,A303,Bottoms,3
+ENGS,118,Short Story Workshop,60060,Z1,L,C,16,8,17:00,19:30,M T W R    ,LAFAYE,L307,Baruth,3
+ENGS,120,Writer's Workshop,61164,WD,L,C,0,1,17:00,19:30,       ,,,,3  
+ENGS,120,Writer's Workshop,60135,Z1,L,C,25,19,08:00,12:15,M T W R F   ,VOTEY,220,Huddle,3  
+ENGS,131,Reading the Bible: Lit & Hist,60691,Z1,L,C,20,6,17:00,19:30,M T  R    ,LAFAYE,L403,Barnaby,3
+ENGS,195,Lit London:Novels&Plays in Lon,60960,TR1,L,C,20,12,TBA,,       ,OFFCMP,SEE NOTES,Warhol,6
+ENGS,195,Shakespeare & the Modern World,60693,Z1,L,C,20,4,12:30,15:30,M T W R    ,LAFAYE,L411,Simone,3
+ENGS,251,Elizabeth Bishop: Poetry Prose,60698,Z1,L,C,18,14,09:00,11:30,M T W R    ,LAFAYE,L403,Lindstrom,3
+ENGS,295,Lit London:Novels In&Around Lo,61031,TR1,L,C,1,0,TBA,,       ,OFFCMP,SEE NOTES,Warhol,3
+ENGS,295,NWPVT Invitational Institute,60700,Z1,L,C,25,5,09:00,16:00,M T W R    ,TERRIL,308,Parent,6
+ENGS,330,Harlem Renaissance & Negritude,60074,Z1,L,C,18,9,17:00,20:30, T W R    ,OMANEX,A304,Losambe,3
+ENGS,330,Victorian Fiction,61128,Z2,L,C,15,10,12:30,15:00,M T W R    ,LAFAYE,L200,Stanton,3
+ENGS,397,Special Readings & Research,60995,TR1,I,C,3,3,TBA,,       ,OFFCMP,SEE NOTES,Warhol,1 to 6
+ENGS,397,Supervised Independent Study,61065,Z1,T,C,15,1,TBA,,       ,,,Scott,3
+ENSC,001,Intro Environmental Sciences,60017,OL1,L,C,15,15,TBA,,       ,ONLINE,SEE NOTES,McIntosh,3
+ENSC,001,Intro Environmental Sciences,60709,OL2,L,C,15,12,TBA,,       ,ONLINE,SEE NOTES,McIntosh,3
+ENVS,095,Biofuels,61003,YM1,L,C,5,0,TBA,,    F S U ,OFFCMP,SEE NOTES,Oldrid,1
+ENVS,095,Biofuels,61004,YM2,L,C,5,1,TBA,,    F S U ,OFFCMP,SEE NOTES,Oldrid,1
+ENVS,095,Redesigning Wastewater,61012,YM3,L,C,3,1,TBA,,    F S U ,OFFCMP,SEE NOTES,Munoz,1
+ENVS,095,Solar Design,61014,YM4,L,C,2,2,TBA,,     S U ,OFFCMP,SEE NOTES,Dier III,1
+ENVS,095,Green Roof Design&Installation,61020,YM5,L,C,2,0,TBA,,M T W R F  U ,OFFCMP,SEE NOTES,Pierce-Del,2
+ENVS,095,Green Home Design,61023,YM6,L,C,4,0,TBA,,     S U ,OFFCMP,SEE NOTES,Sagan,1
+ENVS,095,Green Building Materials,61033,YM8,L,C,4,0,TBA,,     S U ,OFFCMP,SEE NOTES,Wilts,1
+ENVS,095,Introduction to Herbalism,60710,Z1,L,C,20,6,08:30,12:00, T  R    ,LAFAYE,L308,Raab,3
+ENVS,173,Landscape Natural History,60708,Z1,L,C,11,3,09:00,17:00,M  W  F   ,ONCMP,SEE NOTES,Paradis,3
+ENVS,195,SL:Nicaragua:AgEco/ForPratic,60983,TR1,L,C,12,6,TBA,,       ,OFFCMP,SEE NOTES,Blazewicz,3
+ENVS,195,Community Design/Build,61015,YM1,L,C,1,0,TBA,, T W R F S U ,OFFCMP,SEE NOTES,Badanes,3
+ENVS,195,Nat Matls:Shltrs Fences Sculpt,60048,Z1,L,C,15,4,12:30,16:30,M T W R F   ,MANN,104,Bray,3
+ENVS,195,Greening Aiken:Smr Art Studio,60740,Z2,L,C,15,7,09:00,14:00,M T W R F   ,NCOMPX,MULTIPURP,Davis,3
+ENVS,295,Intro to Ecolgical Economics,60937,OL1,L,C,25,6,TBA,,       ,ONLINE,SEE NOTES,Costanza,3
+ENVS,295,Environmtl Conflict Resolution,60938,OL2,L,C,25,11,TBA,,       ,ONLINE,SEE NOTES,Ali,3
+FOR,122,Forest Ecosystem Analysis,60023,Z1,L,C,22,9,08:00,17:30,M T W R F S  ,OFFCMP,SEE NOTES,Shane,4
+FOR,185,Legl Aspects of Owning&Mng For,60746,Z4,L,C,25,5,17:00,19:30,M T W R    ,KALKIN,325,McEvoy,3
+FOR,391,Master's Thesis Research,60839,A,T,M,10,0,TBA,,       ,,,Staff,1 to 6
+FREN,001,Elementary I,60312,Z1,L,C,18,9,08:30,12:00,M T W R    ,LAFAYE,L210,Acquisto,4
+FREN,095,Intermediate Fren Gram Review,60909,OL1,L,C,15,9,TBA,,       ,ONLINE,SEE NOTES,Laliberte,3
+FTS,121,Film/Television Theory,60699,Z1,L,C,20,19,09:00,11:30,M T W R    ,LAFAYE,L302,Jenemann,3
+FTS,133,Films of Stephen King,60694,Z1,L,C,20,16,09:00,11:30,M T W R    ,VOTEY,105,Magistrale,3
+FTS,144,Screenwriting I,60695,Z1,L,C,18,12,09:00,11:30,M T W R    ,LAFAYE,L300,Nilsen,3
+GEOG,040,Weather  Climate and Landscape,60976,Z1,L,C,25,26,12:30,16:00,M  W  F   ,LAFAYE,L300,Worley,3
+GEOG,152,Canada,60646,Z1,L,C,25,3,17:00,20:30, T W R    ,OMANEX,A202,Deslaurier,3
+GEOG,184,Geog Info:Cncpts & Applic,61111,OL1,L,C,30,0,TBA,,       ,ONLINE,SEE NOTES,O'Neil-Dun,3
+GEOG,195,Geography of South Asia,60647,OL1,L,C,20,13,TBA,,       ,ONLINE,SEE NOTES,Bose,3
+GEOG,295,VSSP:Satel Weather&Climate,61201,Z1,L,C,8,5,09:00,15:00,M T W R F   ,ONCMP,SEE NOTES,Dupigny-Gi,3
+GEOL,001,Earth System Science,60014,Z1,L,C,18,14,09:00,13:00,M T W R F   ,DELEHA,101,Lini,4
+GEOL,001,Earth System Science,60016,Z2,L,C,18,16,09:00,13:00,M T W R F   ,DELEHA,101,Lini,4
+GEOL,007,Earth Hazards,60051,Z1,L,C,20,11,08:30,12:00,M  W  F   ,DELEHA,219,Herrera,3
+GEOL,096,Environmental Geology,60711,Z1,L,C,18,13,08:30,12:00,M  W  F   ,DELEHA,219,Herrera,3
+GRAD,385,Master's Language Examination,60942,A,T,M,20,0,TBA,,       ,,,Frisbie,0
+GRAD,397,Master's Comprehensive Exam,60943,A,T,M,200,22,TBA,,       ,,,Frisbie,0
+GRAD,399,Thesis Defense,60944,A,T,M,100,8,TBA,,       ,,,Frisbie,0
+GRAD,497,Doctoral Comprehensive Exam,60945,A,T,M,100,40,TBA,,       ,,,Frisbie,0
+GRAD,499,Dissertation Defense,60946,A,T,M,100,22,TBA,,       ,,,Frisbie,0
+GRAD,900,Continuous Registration Fee,60947,A,T,M,200,50,TBA,,       ,,,Frisbie,0
+GRNU,311,Clinical Nutrition and Nursing,60648,OL1,L,C,20,9,TBA,,       ,ONLINE,SEE NOTES,Abrams,1.5
+GRNU,312,Biomedical Science I,60657,Z1,L,C,24,7,09:00,13:00,M T W     ,ROWELL,242,Abrams,4
+GRNU,315,Pol  Org & Fin Health Care,60992,Z1,L,C,40,13,17:00,20:00, T  R    ,ONCMP,SEE NOTES,O'Brien,3
+GRNU,318,Practicum: Mental Health,60660,Z1,I,C,9,9,07:00,15:00,M T W     ,FAHC,SEE NOTES,Curley,2
+GRNU,322,Human Structure and Function,60664,OL1,L,C,20,11,TBA,,       ,ONLINE,SEE NOTES,Abrams,1.5
+GRNU,325,Science of Nursing:Children,60661,Z1,L,C,9,9,15:30,20:30,M    F   ,ROWELL,115,Lu,3
+GRNU,327,Practicum: Children,60662,Z1,I,C,9,9,07:00,15:30, T W R    ,ROWELL,237,Sande,2
+GRNU,337,Community/Public Hlth Nsg,60665,Z1,L,C,9,9,09:00,13:00,M T      ,ROWELL,104,Maltby,2
+GRNU,338,Practicum:Community Health,60670,Z1,I,C,9,9,TBA,,       ,,,Maltby,2
+GRNU,390,Master's Project,60672,A,T,M,15,0,TBA,,       ,,,Staff,1 to 3
+GRNU,391,Master's Thesis Research,60673,A,T,M,15,2,TBA,,       ,,,Staff,1 to 6
+GRNU,396,Assessment of Pediatric Attach,61159,OL1,L,C,14,8,TBA,,       ,OFFCMP,SEE NOTES,Ring,3
+HDFS,005,Human Development,60111,Z1,L,C,25,8,08:30,12:00, T  R    ,LAFAYE,L311,Shelton,3
+HDFS,065,Human Relationships&Sexuality,60069,Z1,L,C,16,3,17:00,20:30, T  R    ,MANN,104,Gross,3
+HDFS,263,Advanced Child Development,61158,WT1,L,C,25,16,08:30,16:00,     S  ,OFFCMP,SEE NOTES,Tolentino,3
+HDFS,291,Special Problems,60892,Z1,L,C,12,1,TBA,,       ,ONCMP,SEE NOTES,Shelton,1 to 6
+HDFS,291,Special Problems,61188,Z2,I,C,1,1,TBA,,       ,ONCMP,SEE NOTES,Weinstock,1 to 6
+HDFS,291,Special Problems,61189,Z3,I,C,1,1,TBA,,       ,ONCMP,SEE NOTES,Hurley,1 to 6
+HDFS,295,Boys&Men:Dev Relationshp&Risks,60893,Z2,L,C,25,6,08:30,12:00, T W R    ,ML SCI,105,Shelton,3
+HDFS,296,Field Experience,60891,Z1,L,C,12,1,TBA,,       ,ONCMP,SEE NOTES,Shelton,1 to 15
+HLTH,141,Healing Touch Level I,60123,Z1,L,C,18,15,09:00,17:30,     S U ,ONCMP,SEE NOTES,Scacciafer,1
+HLTH,195,Energy Medicine,60904,Z1,L,C,18,12,09:00,17:30,M T W R  S U ,MANN,AUD,Scacciafer,3
+HST,011,History of the US,60997,OL1,L,C,20,18,TBA,,       ,ONLINE,SEE NOTES,Moore,3
+HST,012,History of the US,60032,OL1,L,C,20,13,TBA,,       ,ONLINE,SEE NOTES,Madden,3
+HST,012,History of the US,60463,OL2,L,C,20,16,TBA,,       ,ONLINE,SEE NOTES,Madden,3
+HST,016,Modern Europe,60788,OL1,L,C,20,13,TBA,,       ,ONLINE,SEE NOTES,Grimmer,3
+HST,095,Pirates  JackTars & Seadogs,60038,OL1,L,C,20,21,TBA,,       ,ONLINE,SEE NOTES,Moore,3
+HST,095,The Sixties,60041,OL2,L,C,20,14,TBA,,       ,ONLINE,SEE NOTES,Moore,3
+HST,095,War&Gender in Modern Britain,60147,OL4,L,C,20,7,TBA,,       ,ONLINE,SEE NOTES,Purcell,3
+HST,095,African Hist thru Film & Lit,60033,Z1,L,C,20,19,12:30,16:00, T W R    ,LAFAYE,L100,Stilwell,3
+HST,095,Japan: A Cultural History,60794,Z4,L,C,20,8,12:30,16:00,M  W  F   ,LAFAYE,L300,Esselstrom,3
+HST,095,Europe Since 1945,60798,Z6,L,C,20,11,12:30,16:00,M  W  F   ,LAFAYE,L111,Grimmer,3
+HST,095,Gandhi and Indian Nationalism,60807,Z8,L,C,20,3,13:00,16:30,M  W  F   ,LAFAYE,L210,McGowan,3
+HST,127,European Culture&Soc 1914-1945,60045,OL1,L,C,20,13,TBA,,       ,ONLINE,SEE NOTES,Grimmer,3
+HST,183,US Military History,60801,Z1,L,C,20,19,08:30,12:00, T W R    ,LAFAYE,L111,Buchanan,3
+HST,184,Vermont History,60046,Z1,L,C,20,5,08:30,12:00, T  R    ,LAFAYE,L200,Searls,3
+HST,195,The Irish Troubles,60806,OL1,L,C,20,15,TBA,,       ,ONLINE,SEE NOTES,Thornton,3
+HST,195,American Hst through Sports,60802,Z2,L,C,20,7,13:00,16:30, T  R    ,LAFAYE,L300,Searls,3
+HST,196,Modern Chinese History&Society,61039,TR1,L,C,25,18,TBA,,       ,OFFCMP,SEE NOTES,Staff,1
+HST,198,Readings & Research,61080,Z1,T,C,5,1,TBA,,       ,,,Phelps,6
+HST,198,Readings & Research,61137,Z2,T,C,1,1,TBA,,       ,ONCMP,SEE NOTES,Gustafson,6
+HST,199,Internship in History,61094,Z1,I,C,1,1,TBA,,       ,ONCMP,SEE NOTES,Youngblood,3
+HST,199,Internship in History,61191,Z2,I,C,1,0,TBA,,       ,ONCMP,SEE NOTES,McLaughlin,3
+HST,397,Readings and Research,61011,Z1,I,C,1,1,TBA,,       ,ONCMP,SEE NOTES,Deslandes,3
+JAPN,010,Japanese-Daily Communication,60009,Z1,L,C,12,8,17:00,19:00,M T W R F   ,VOTEY,223,Suzuki,3
+JAPN,095,Cultural Exchange Trip: Japan,60738,TR1,L,C,9,9,TBA,,       ,OFFCMP,SEE NOTES,Suzuki,2
+LANG,095,Elementary Arabic,61063,Z1,L,C,25,7,12:30,16:00,M T W R    ,LAFAYE,L102,Jonathan,4
+LAT,001,Elementary,60630,OL1,L,C,25,8,TBA,,       ,ONLINE,SEE NOTES,Walsh,4
+LAT,002,Elementary Latin,60631,OL1,L,C,25,7,TBA,,       ,ONLINE,SEE NOTES,Walsh,4
+MAED,205,Math as a Second Language,61116,ET1,L,C,30,10,08:00,16:45,M T W R F   ,OFFCMP,SEE NOTES,Ojala,3
+MAED,205,Math as a Second Language,61162,OH1,L,C,35,26,08:00,16:00,M T W R F   ,OFFCMP,SEE NOTES,Laird,3
+MAED,205,Math as a Second Language,61177,OH2,L,C,35,7,08:00,16:00,M T W R F   ,OFFCMP,SEE NOTES,Ojala,3
+MAED,210,Functions/Algebra for Teaching,60934,Z1,L,C,30,0,08:00,16:45,M T W R F   ,ROWELL,118,Ojala,3
+MAED,215,Trig/Algebra for Teachers II,61161,OH1,L,C,50,49,08:00,16:00,M T W R F   ,OFFCMP,SEE NOTES,Ojala,3
+MAED,225,Number Theory for Teachers,60933,Z1,L,C,30,0,08:00,16:45,M T W R F   ,ROWELL,111,Laird,3
+MAED,235,Calculus for Teachers I,60935,Z1,L,C,40,0,08:00,16:45,M T W R F   ,ROWELL,118,Ojala,3
+MAED,300,Statistics & Research I,60936,Z1,L,C,40,0,08:00,16:45,M T W R F   ,ROWELL,111,Laird, Jr.,3
+MATH,001,Elementary College Algebra,60163,Z1,L,C,22,9,09:00,11:30,M T W R    ,VOTEY,223,Miller,3
+MATH,009,College Algebra,60869,Z1,L,C,22,8,09:00,11:30,M T W R    ,VOTEY,223,Merrill,3
+MATH,009,College Algebra,60164,Z2,L,C,25,19,08:30,11:00,M T W R    ,VOTEY,254,Caisse,3
+MATH,010,Pre-Calculus Mathematics,60165,Z1,L,C,25,20,09:00,11:30,M T W R    ,VOTEY,220,Bentil,3
+MATH,010,Pre-Calculus Mathematics,61150,Z3,L,C,20,8,09:00,11:30,M T W R    ,PERKIN,300,Lieb-Lappe,3
+MATH,016,Fund Concepts Elem School Math,61071,Z1,L,C,25,1,12:30,15:00,M T W R    ,ROWELL,115,Karstens,3
+MATH,017,Applications of Finite Math,60166,Z1,L,C,25,10,12:30,15:00,M T W R    ,VOTEY,220,Koehler,3
+MATH,017,Applications of Finite Math,60770,Z2,L,C,25,7,08:30,11:00,M T W R    ,VOTEY,207,Buddemeyer,3
+MATH,019,Fundamentals of Calculus I,60156,OL1,L,C,25,16,17:00,20:00,M  W     ,ONLINE,SEE NOTES,Rosebush,3
+MATH,019,Fundamentals of Calculus I,61203,WD,L,C,1,1,17:00,20:00,       ,,,,3  
+MATH,019,Fundamentals of Calculus I,60157,Z1,L,C,25,7,08:30,12:00,M  W     ,LAFAYE,L308,Geary,3
+MATH,019,Fundamentals of Calculus I,60870,Z2,L,C,25,18,09:00,11:30,M T W R    ,VOTEY,367,Butler,3  
+MATH,020,Fundamentals of Calculus II,60168,Z1,L,C,25,13,09:00,11:30,M T W R    ,VOTEY,209,Welz,3
+MATH,021,Calculus I,60159,Z1,L,C,25,10,09:00,11:30,M T W R    ,VOTEY,205,Julianelle,4
+MATH,021,Calculus I,60169,Z2,L,C,25,24,08:30,11:00,M T W R F   ,VOTEY,205,Reardon,4
+MATH,022,Calculus II,61170,WD,L,C,1,1,08:30,11:00,       ,,,,4
+MATH,022,Calculus II,60160,Z1,L,C,25,9,12:30,14:30,M T W R F   ,VOTEY,205,Lakoba,4
+MATH,022,Calculus II,60170,Z2,L,C,25,21,14:30,16:20,M T W R F   ,PERKIN,102,Read,4
+MATH,052,Fundamentals of Mathematics,60171,Z1,L,C,25,9,08:30,10:30,M T W R    ,PERKIN,102,Cox,3
+MATH,121,Calculus III,60172,Z1,L,C,25,6,12:30,15:00,M T W R    ,PERKIN,102,Rogers,4
+MATH,121,Calculus III,60161,Z2,L,C,25,9,14:00,16:30,M T W R    ,VOTEY,205,Lawlor,4
+MATH,124,Linear Algebra,60173,Z1,L,C,25,13,16:00,19:30,M  W     ,VOTEY,254,Wilson,3
+MATH,191,Fund of Calc for Statistics,61186,Z1,L,C,10,7,TBA,,       ,ONCMP,SEE NOTES,Son,3
+MATH,241,Anyl in Several Real Vars I,61072,Z1,L,C,25,2,08:30,10:15,M T W R    ,TERRIL,207,Welz,3
+MATH,271,Adv Engineering Mathematics,60162,Z1,L,C,25,8,08:30,10:15,M T W R    ,VOTEY,254,Annan,3
+MATH,295,Math Applications & Modeling,61192,VG1,L,C,20,12,08:00,16:00,M T W R F   ,OFFCMP,SEE NOTES,Burgmeier,3
+MATH,391,Master's Thesis Research,61179,A,T,M,10,1,TBA,,       ,,,Staff,1 to 18
+MATH,491,Doctoral Dissertation Research,61157,Z1,T,C,10,1,TBA,,       ,,,Foote,1 to 18
+ME,491,Doctoral Dissertation Research,61149,A,T,M,5,2,TBA,,       ,,,Huston,0 to 18
+MLRS,003,Medical Terminology,60949,OL1,L,C,25,20,TBA,,       ,ONLINE,SEE NOTES,Muskus,2
+MLRS,003,Medical Terminology,60950,OL2,L,C,25,9,TBA,,       ,ONLINE,SEE NOTES,Muskus,2
+MLRS,054,Principles of Microbiology,60366,Z1,L,C,24,11,08:30,12:00, T  R    ,ROWELL,115,Guy,3
+MLRS,056,Principles of Microbiology Lab,60367,Z1,B,C,24,13,13:00,16:30, T  R    ,ROWELL,113,Guy,1
+MMG,491,Doctoral Dissertation Research,61155,A,T,M,10,5,TBA,,       ,,,Pederson,1 to 18
+MPBP,306,Medical Physiology,60853,Z1,L,C,99,33,09:00,10:00,     S  ,MEDED,300,Low,8
+MPBP,333,3D Electron Microscopy&Img Prc,60854,Z1,L,C,9,3,19:20,21:20,  W     ,HSRF,400,Radermache,1
+MU,001,Intro to Classical Music,60253,Z1,L,C,70,7,17:00,20:30,M  W R    ,SOUTHW,301,Toner Jr,3
+MU,009,Music Theory Fundamentals,61209,WD,L,M,0,1,17:00,20:30,       ,,,,3
+MU,009,Music Theory Fundamentals,60758,Z1,L,C,15,6,10:30,12:15,M T W R    ,SOUTHW,202,Julien,3
+MU,010,Blues and Related Traditions,60812,OL1,L,C,20,13,TBA,,       ,ONLINE,SEE NOTES,Stats,3
+MU,015,History of Rock and Roll,60813,OL1,L,C,20,13,TBA,,       ,ONLINE,SEE NOTES,Stats,3
+MU,015,History of Rock and Roll,60811,Z2,L,C,25,6,08:30,12:00,M  W  F   ,SOUTHW,206,Rivers,3
+MU,021,Beginning Group Lessons:Guitar,60255,Z1,P,C,14,4,17:00,18:30, T      ,SOUTHW,206,Capps,1
+MU,021,Beginning Group Lessons:Guitar,60948,Z2,P,C,14,6,17:00,18:30, T      ,SOUTHW,206,Capps,1
+MU,095,D1:Latin Jazz Immersion,60277,BU3,L,C,20,15,08:30,17:00,M T W R F   ,OFFCMP,SEE NOTES,Stewart,3
+MU,095,China: Cultural Immersion,60283,TR1,L,C,1,1,TBA,,       ,OFFCMP,SEE NOTES,Riley,3
+MU,295,World Drumming in the Classrm,60273,Z2,L,C,20,8,09:00,17:00,M T W R F   ,ONCMP,SEE NOTES,Toner,3
+MU,295,Adv. Conversational Solfege,60821,Z4,L,C,1,1,08:30,16:30,   R F   ,SOUTHW,A318,Greene,3
+NFS,043,Fundamentals of Nutrition,60078,OL1,L,C,15,13,TBA,,       ,ONLINE,SEE NOTES,Paradis,3
+NFS,043,Fundamentals of Nutrition,60077,OL2,L,C,15,8,TBA,,       ,ONLINE,SEE NOTES,Paradis,3
+NFS,163,Sports Nutrition,60342,Z1,L,C,20,9,09:00,12:00,M T W R F   ,TERRIL,308,Tyzbir,3
+NFS,195,Environmental Cooking,60775,Z2,L,C,16,11,08:30,12:00, T W R    ,ONCMP,SEE NOTES,Belliveau,3
+NFS,295,Exploring NYC Urban Food Sys,60778,TR1,L,C,20,12,TBA,,       ,OFFCMP,SEE NOTES,Trubek,3
+NFS,295,Special Topics,61126,Z4,T,C,1,1,TBA,,       ,,,Pintauro,1 to 15
+NFS,391,Master's Thesis Research,60765,A,T,M,10,0,TBA,,       ,ONCMP,SEE NOTES,Harvey-Ber,1 to 18
+NFS,392,Evidence-based Practice Prjct,61084,Z1,I,C,6,2,TBA,,       ,,,Nickerson,1 to 2
+NH,095,Patient Care Equip and Tech,60125,OL1,L,C,20,20,TBA,,       ,ONLINE,SEE NOTES,Clark,3
+NH,195,Advanced Med Equipment Sys,60128,OL1,L,C,25,17,TBA,,       ,ONLINE,SEE NOTES,Clark,3
+NR,143,Intro to Geog Info Systems,60717,OL1,L,C,30,8,TBA,,       ,ONLINE,SEE NOTES,O'Neil-Dun,3
+NR,285,Homesteading,60369,CR1,L,C,8,5,09:00,21:00,M T W R F   ,OFFCMP,SEE NOTES,Boumans,3
+NR,285,Intro to Ecological Economics,60409,OL1,L,C,25,1,TBA,,       ,ONLINE,SEE NOTES,Costanza,3
+NR,285,Environmtl Conflict Resolution,60726,OL3,L,C,25,0,TBA,,       ,ONLINE,SEE NOTES,Ali,3
+NR,285,Wetland Field Methods,61190,WD,L,C,0,1,TBA,,       ,,,,3
+NR,285,Wetland Field Methods,61060,Z0,L,C,30,9,08:00,16:00,M T W R F   ,UHTS,27,Crehan,3
+NR,285,Sustainable Business,60599,Z3,L,C,35,7,08:30,20:30,M T W R F   ,,,Erickson,3
+NR,285,SL:Hardwick Cmty Dev &Design,60733,Z7,L,C,20,4,12:30,16:30,M T W R F   ,UHTS,009,Gayer,3
+NR,384,Independent Study in NR,61146,Z1,T,C,1,0,TBA,,       ,,,Costanza,1
+NR,384,Independent Study in NR,61187,Z2,T,C,1,1,TBA,,       ,,,Erickson,3
+NR,385,Vermont Field Studies,60401,SW1,L,C,25,7,06:00,21:00,M T W R F S  ,OFFCMP,SEE NOTES,Erickson,1
+NR,385,Reading the Landscape,61147,SW2,L,C,10,6,08:00,19:00,M T W R F   ,OFFCMP,SEE NOTES,Wang,0 to 3
+NR,385,Collaborative Management Inst,60972,Z5,L,C,45,1,16:00,20:30,M  W     ,VOTEY,105,Koliba,3
+NR,391,Master's Thesis Research,60841,A,T,M,10,2,TBA,,       ,,,Staff,1 to 18
+NR,491,Doctoral Dissertation Rsch,60842,A,T,M,10,4,TBA,,       ,,,Staff,1 to 18
+NSCI,391,Master's Thesis Research,60732,A,T,M,15,0,TBA,,       ,,,Nishi,1 to 18
+NSCI,491,Doctoral Dissertation Research,60734,A,T,M,15,13,TBA,,       ,,,Nishi,1 to 18
+NURS,120,Pathophysiology,60714,DL1,L,C,28,28,16:00,18:45,   R    ,OFFCMP,SEE NOTES,Berggren,3
+NURS,120,Pathophysiology,60712,Z2,L,C,24,10,16:00,18:45,   R    ,LAFAYE,L400,Berggren,3
+OSSP,000,Overseas Study Prgm: Summer,60697,A,L,M,150,72,TBA,,       ,OFFCMP,SEE NOTES,Damon,12  
+PA,295,Energy Policy,61119,Z2,L,C,16,2,17:00,20:30,M T W R    ,LAFAYE,L100,Flomenhoft,3
+PA,307,Administrative Ethics,60676,Z1,L,C,12,10,09:00,17:00,   R F S  ,WATERM,402,Ventriss,3
+PA,380,Internship,60677,Z1,I,C,5,5,TBA,,       ,,,Koliba,3 to 6
+PA,391,Master's Thesis Research,60680,A,T,M,5,0,TBA,,       ,,,Koliba,1 to 6
+PA,395,Wm Power & Lead in Org,60679,Z1,L,C,15,11,08:30,17:00,M T W R F   ,OMANEX,A500,Van Buren,3
+PA,395,Collaborative Management Inst,60145,Z2,L,C,45,9,16:00,20:30,M  W     ,VOTEY,105,Koliba,3
+PA,395,Organization Resources &  Devt,60851,Z4,L,C,15,1,17:00,20:30,M T W R    ,WATERM,458,Johnson, I,3
+PA,397,Readings & Research,60681,Z1,T,C,1,1,TBA,,       ,ONCMP,SEE NOTES,Koliba,1 to 6
+PATH,395,Practical Pathology,60965,Z2,L,C,6,6,09:00,17:00,M T W R F   ,ONCMP,SEE NOTES,Janssen,3
+PBIO,109,Systematics & Phylogeny,60224,Z1,L,C,20,8,08:30,12:00,M T W R F   ,ML SCI,131,Barrington,4
+PBIO,195,Medicinal Plants,60220,Z1,L,C,20,10,14:00,16:00,M  W  F   ,ML SCI,131,Combest,3
+PBIO,201,General Biochemistry,60643,Z1,L,C,30,25,09:00,11:30,M T W R    ,HILLS,234,Currier,3
+PBIO,202,General Biochemistry Lab,60644,Z1,B,C,14,14,12:30,15:30, T  R    ,HILLS,128,Jurkiewicz,1
+PBIO,202,General Biochemistry Lab,61135,Z2,B,C,14,4,12:30,15:30,  W  F   ,HILLS,128,Jurkiewicz,1
+PEAC,004,Weight Training 1-4,60115,Z1,A,C,20,12,07:30,08:50,M T W R F   ,ONCMP,SEE NOTES,Cournoyer ,1
+PEAC,004,Weight Training 1-4,60116,Z2,A,C,20,6,07:30,08:50,M T W R F   ,ONCMP,SEE NOTES,Cournoyer ,1
+PEAC,004,Weight Training 1-4,60907,Z3,A,C,20,7,07:30,08:50,M T W R F   ,ONCMP,SEE NOTES,Cournoyer ,1
+PEAC,021,Walking for Fitness 1-4,60117,Z1,A,C,25,7,17:00,18:20,M T W R F   ,ONCMP,SEE NOTES,McLaughlin,1
+PEAC,021,Walking for Fitness 1-4,60118,Z2,A,C,25,2,08:00,09:20,M T W R F   ,ONCMP,SEE NOTES,McLaughlin,1
+PEAC,041,Lifeguard Training,60119,Z1,A,C,15,6,17:30,20:50,M T W R F   ,ONCMP,SEE NOTES,Cournoyer ,1
+PEAC,047,Scuba,60906,BU1,A,C,16,4,08:30,13:30, T  R    ,OFFCMP,SEE NOTES,Eddy,1
+PEAC,049,Learn to Sail,60121,BU1,A,C,24,7,13:00,17:00, T  R    ,OFFCMP,SEE NOTES,Guimaraes,1
+PEAC,096,Tennis 1-2,61166,WD,A,C,1,1,13:00,17:00,       ,,,,1  
+PEAC,096,Tennis 1-2,60122,Z1,A,C,16,13,18:00,19:50,M T W R F   ,PFG,TENNIS,Parsons-Re,1  
+PEAC,199,Vtrim for Undergrads,61007,OL1,L,C,20,6,13:00,14:00, T      ,ONLINE,SEE NOTES,Anhder,1
+PEAC,199,Vtrim for Undergrads,61008,OL2,L,C,20,12,19:00,20:00, T      ,ONLINE,SEE NOTES,McFeeters,1
+PEAC,199,Vtrim for Undergrads,61010,OL4,L,C,20,12,19:00,20:00,M       ,ONLINE,SEE NOTES,Biron,1
+PHIL,001,Intro Phil: Selected Problems,60773,Z1,L,C,20,7,09:00,11:30,M T W R    ,LAFAYE,L100,Ashooh,3
+PHIL,095,On the Meaning of Life,60184,Z1,L,C,20,9,17:00,19:30,M T W R    ,KALKIN,001,Sugarman,3
+PHIL,096,Phil Ques&Rel Resp to Hum Exis,60186,Z1,L,C,20,5,17:00,19:30,M T W R    ,LAFAYE,L108,Sugarman,3
+PHIL,195,The Ethics of Eating,60915,Z1,L,C,25,4,13:00,16:30, T W R    ,LAFAYE,L308,Doggett,3
+PHRM,301,Medical Pharmacology,60064,Z1,L,C,38,11,13:00,15:00,M T W R F   ,GIVN C,C443,McCormack,6
+PHYS,011,Elementary Physics,60003,Z1,L,C,45,38,09:00,11:30,M T W R    ,ML SCI,105,Malghani,4
+PHYS,012,Elementary Physics,60004,Z1,L,C,45,33,09:00,11:30,M T W R    ,ANGELL,B112,Malghani,4
+PHYS,021,Introductory Lab I,60005,Z1,B,C,24,20,13:00,16:30,M  W     ,COOK,A409,Malghani,1
+PHYS,021,Introductory Lab I,60006,Z2,B,C,24,19,13:00,16:30, T  R    ,COOK,A409,Malghani,1
+PHYS,022,Introductory Lab II,60007,Z1,B,C,21,19,13:00,16:00,M  W     ,COOK,A410,Malghani,1
+PHYS,022,Introductory Lab II,60008,Z2,B,C,21,21,13:00,16:00, T  R    ,COOK,A410,Malghani,1
+PHYS,031,Physics for Engineers I,60457,Z1,L,C,20,9,08:30,11:00,M T  R F   ,ANGELL,B104,Pepe,4
+PHYS,123,Physics Problem Solving II,61096,Z1,L,C,20,8,TBA,,       ,ONCMP,SEE NOTES,Pepe,1
+PHYS,125,Physics for Engineers II,61097,Z1,L,C,20,18,08:30,11:00,M T  R F   ,COOK,A402,Pepe,3
+POLS,021,American Political System,60228,OL1,L,C,20,14,TBA,,       ,ONLINE,SEE NOTES,Guber,3
+POLS,021,American Political System,61151,OL2,L,C,20,6,TBA,,       ,ONLINE,SEE NOTES,Guber,3
+POLS,021,American Political System,60784,Z2,L,C,20,11,12:30,16:30, T W R    ,OLDMIL,523,Gierzynski,3
+POLS,041,Intro Prob Political Thought,60632,Z1,L,C,20,9,12:30,15:30,M T W R    ,OMANEX,A500,LaFay,3
+POLS,131,Political Leadership,60787,Z1,L,C,20,9,08:30,12:00,M  W  F   ,OLDMIL,523,Nelson,3
+POLS,171,Western European Political Sys,60796,Z1,L,C,20,10,12:30,15:30,M T W R    ,OLDMIL,523,Moyser,3
+POLS,192,Internships,61098,Z2,I,C,15,6,TBA,,       ,,,Gierzynski,1 to 6
+POLS,196,Int'l Security & World Peace,60789,Z1,L,C,20,12,13:00,16:30, T W R    ,VOTEY,367,Wechsler,3
+PSS,095,Biofuels,61005,YM1,L,C,5,0,TBA,,    F S U ,OFFCMP,SEE NOTES,Oldrid,1
+PSS,095,Biofuels,61006,YM2,L,C,5,0,TBA,,    F S U ,OFFCMP,SEE NOTES,Oldrid,1
+PSS,095,Green Roof Design&Installation,61021,YM3,L,C,2,0,TBA,,M T W R F  U ,OFFCMP,SEE NOTES,Pierce-Del,2
+PSS,095,Landscape Design,61029,YM4,L,C,3,1,TBA,,M     S U ,OFFCMP,SEE NOTES,Moniz,1
+PSS,154,Composting Ecology & Mgmt,60603,SW1,L,C,20,9,13:00,16:00, T   F   ,OFFCMP,SEE NOTES,Gilbert,3
+PSS,162,Soil Fertility & Management,60605,SW1,L,C,20,6,13:00,16:00,M   R    ,OFFCMP,SEE NOTES,Gorres,3
+PSS,195,SL:Nicaragua: AgEco/ForPractic,60969,TR1,L,C,12,4,TBA,,       ,OFFCMP,SEE NOTES,Blazewicz,3
+PSS,196,Perennial Garden Design,60908,OL1,L,C,20,12,TBA,,       ,ONLINE,SEE NOTES,Perry,1
+PSS,198,Advanced Perennial Design,61129,Z1,L,C,1,1,TBA,,       ,ONCMP,SEE NOTES,Perry,1
+PSS,212,Advanced Agroecology,60607,Z1,L,C,20,8,08:30,18:30,M T W R F S  ,KALKIN,003,Mendez,4
+PSS,296,Advanced Agroecology,61073,Z1,L,C,5,3,08:30,18:30,M T W R    ,KALKIN,003,Mendez,4
+PSTG,299,Visiting Grad,61178,Z1,I,C,10,1,TBA,,       ,,,Russin,0
+PSYC,001,General Psychology,60204,OL1,L,C,25,20,TBA,,       ,ONLINE,SEE NOTES,Rudiger,3
+PSYC,001,General Psychology,61030,OL2,L,C,30,19,TBA,,       ,ONLINE,SEE NOTES,Rudiger,3
+PSYC,001,General Psychology,60690,Z1,L,C,25,11,09:00,11:30,M T W R    ,DEWEY,314,Rudiger,3
+PSYC,095,Improve Memory  Motiv & Cog,60361,Z1,L,C,25,18,11:15,12:15,M T W R    ,DEWEY,100,Kalisz,1
+PSYC,104,Learning  Cognition & Behavior,60209,Z1,L,C,25,12,17:00,19:30,M T W R    ,DEWEY,212,Thanellou,3
+PSYC,121,Biopsychology,60207,Z1,L,C,25,8,09:00,11:30,M T W R    ,DEWEY,212,Salam,3
+PSYC,130,Social Psychology,60206,Z1,L,C,25,12,12:30,16:00,M  W  F   ,DEWEY,212,Crimin,3
+PSYC,152,Abnormal Psychology,60958,Z1,L,C,25,9,17:00,20:30, T W R    ,LAFAYE,L308,Sitnikov,3
+PSYC,233,Experience & Creativity,61169,WD,L,C,1,1,17:00,20:30,       ,,,,3
+PSYC,233,Experience & Creativity,60701,Z1,L,C,20,7,17:00,20:30,M  W     ,ROWELL,118,Leff,3
+PSYC,240,Organizational Psychology,60689,OL1,L,C,25,15,TBA,,       ,ONLINE,SEE NOTES,Rudiger,3
+PSYC,251,Behav Disorders of Childhood,60210,Z1,L,C,25,7,08:30,12:00, T W R    ,LAFAYE,L411,Garai,3
+PSYC,295,Experience & Creativity (IS),61103,Z1,L,C,1,1,TBA,,       ,ONCMP,SEE NOTES,Murray-Clo,3
+PSYC,380,Brief Therapy:Cultural Consid,60749,Z1,L,C,25,4,08:30,12:00, T W R    ,LAFAYE,L210,Gottlieb,3
+PSYC,385,Advanced Readings & Research,61172,Z1,T,C,1,1,TBA,,       ,,,Pinel,3
+PSYC,391,Master's Thesis Rsch,61112,A,T,M,10,0,TBA,,       ,,,Falls,1 to 18
+PSYC,491,Doctoral Dissertation Research,61113,A,T,M,10,10,TBA,,       ,,,Falls,1 to 18
+PT,203,Professional Seminar 1,60805,Z1,L,C,50,33,13:00,15:00,M  W     ,GIVN C,C443,Jette,2
+PT,215,Movement Science 2,60779,Z1,L,C,50,41,10:01,13:00, T W R    ,ROWELL,003A,O'Rourke,3
+PT,254,Clinical Internship 1,60782,Z1,I,C,50,41,TBA,,       ,,,Nelson,2
+PT,321,Applying Research to Practice,60780,Z1,L,C,50,41,13:30,15:00, T  R    ,ROWELL,110,Jette,1
+PT,331,Practice Management in PT,60803,Z1,L,C,30,28,18:00,20:00,M   R    ,ROWELL,242,Hart,2
+PT,349,Patient Mgt:Musculoskeletal 2,60785,Z1,L,C,30,28,10:30,12:30, T W R F   ,ROWELL,003B,Worth,4
+REL,020,D2: Intro Rel:Comparative,60931,OL1,L,C,20,14,TBA,,       ,ONLINE,SEE NOTES,Buyze,3
+REL,095,Intro to Amer Indian Religions,60179,OL1,L,C,25,11,TBA,,       ,ONLINE,SEE NOTES,Mello,3
+REL,095,D2:Intro Rel:African Religions,60180,OL2,L,C,20,14,TBA,,       ,ONLINE,SEE NOTES,Brennan,3
+REL,095,On the Meaning of Life,60177,Z1,L,C,20,6,17:00,19:30,M T W R    ,KALKIN,001,Sugarman,3
+REL,096,Phil Ques&Rel Resp to Hum Exis,61131,Z1,L,C,20,7,17:00,20:30,M T W R    ,LAFAYE,L108,Sugarman,3
+SOC,001,Introduction to Sociology,60325,Z2,L,C,25,11,13:00,16:30, T W R    ,LAFAYE,L302,Diouf,3
+SOC,011,Social Problems,60920,Z1,L,C,25,21,09:00,11:30,M T W R    ,KALKIN,002,Beckwith,3
+SOC,014,Deviance & Social Control,60638,OL1,L,C,20,11,TBA,,       ,ONLINE,SEE NOTES,Kaelber,3
+SOC,019,D1: Race Relations in the US,60324,Z1,L,C,20,14,08:30,12:00, T W R    ,LAFAYE,L210,Diouf,3
+SOC,096,Science & the Supernatural,61205,WD,L,C,1,1,08:30,12:00,       ,,,,1 to 3
+SOC,096,Science & the Supernatural,60315,Z1,L,C,20,7,08:30,12:00, T W R    ,31 SPR,,Fengler,3
+SOC,101,Developm't Sociological Theory,60181,OL1,L,C,15,10,TBA,,       ,ONLINE,SEE NOTES,Kaelber,3
+SOC,114,Sociology of Punishment,61165,WD,L,C,1,1,TBA,,       ,,,,3  
+SOC,114,Sociology of Punishment,60178,Z1,L,C,15,12,08:30,12:00,M  W  F   ,31 SPR,100,Fox,3  
+SOC,154,Social Org of Death & Dying,60183,Z1,L,C,15,8,13:00,16:30, T W R    ,31 SPR,100,Cowan,3
+SOC,195,Murder & Our Killing Culture,61139,OL1,L,C,10,7,TBA,,       ,ONLINE,SEE NOTES,Shtull,3
+SOC,216,Criminal Justice,60809,Z1,L,C,15,10,13:00,16:30,M  W  F   ,LAFAYE,L300,Fox,3
+SOC,295,Murder & Our Killing Culture,61140,OL1,L,C,5,4,TBA,,       ,ONLINE,SEE NOTES,Shtull,3
+SOC,295,Sociology of Punishment,61044,Z1,L,C,1,1,08:30,12:00,M  W  F   ,31 SPR,100,Fox,3
+SPAN,001,Elementary I,60304,Z1,L,C,18,13,08:30,12:00,M T W R    ,WATERM,458,Ebratt,4
+SPAN,002,Elementary II,60912,Z1,L,C,18,18,08:30,12:00,M T W R    ,ROWELL,102,Guarnaccia,4
+SPAN,052,Intermediate Language Study II,60307,Z1,L,C,18,5,09:00,11:30,M T W R    ,LAFAYE,L108,Valeriano,3
+SPAN,195,Latin American Short Story,60308,Z1,L,C,18,6,17:00,20:30, T W R    ,WATERM,458,Flores,3
+SPAN,201,Adv Composition & Conversation,60828,Z1,L,C,15,11,13:00,15:30,M T W R    ,LAFAYE,L202,Oyata,3
+SPCH,011,Effective Speaking,60885,Z1,L,C,20,19,09:00,17:00,M T W R F   ,LAFAYE,L308,Register,3
+SPCH,095,World Schools Debate,60344,Z5,L,C,20,5,09:00,20:00,M T W R F S U ,WATERM,456,Snider,6
+STAT,051,Probability With Statistics,60092,Z1,L,C,15,2,08:30,12:00, T  R    ,LAFAYE,L107,Visco,3
+STAT,111,Elements of Statistics,60703,OL1,L,C,25,14,TBA,,       ,ONLINE,SEE NOTES,Aguiar,3
+STAT,111,Elements of Statistics,60093,Z1,L,C,20,10,09:00,11:30,M T W R    ,VOTEY,207,Karstens,3
+STAT,111,Elements of Statistics,60702,Z2,L,C,20,16,09:00,11:30,M T W R    ,VOTEY,361,Kudrle,3
+STAT,141,Basic Statistical Methods,60095,OL1,L,C,30,21,TBA,,       ,ONLINE,SEE NOTES,Aguiar,3
+STAT,141,Basic Statistical Methods,60096,OL2,L,C,30,10,TBA,,       ,ONLINE,SEE NOTES,Aguiar,3
+STAT,141,Basic Statistical Methods,60094,Z1,L,C,20,9,10:30,12:15,M T W R    ,LAFAYE,L207,MacPherson,3
+STAT,151,Applied Probability,60098,Z1,L,C,30,9,08:30,10:15,M T W R    ,PERKIN,102,Weaver,3
+STAT,195,Statistics for Business,60100,Z1,L,C,50,8,09:00,11:30,M T W R    ,PERKIN,101,Dickey,3
+STAT,211,Statistical Methods I,60101,Z1,L,C,25,5,17:00,20:30,M  W     ,LAFAYE,L411,Son,3
+STAT,225,Applied Regression Analysis,60704,Z1,L,C,25,11,17:00,20:30, T  R    ,LAFAYE,L411,Son,3
+STAT,253,Appl Time Series & Forecasting,61138,Z1,L,C,10,8,TBA,,       ,ONCMP,SEE NOTES,Son,3
+STAT,381,Statistical Research,61125,A,T,M,1,1,TBA,,       ,ONCMP,SEE NOTES,Cole,1 to 3
+SWSS,007,Quantitative Meth SW Research,60022,Z1,L,C,20,9,17:00,20:30, T  R    ,LAFAYE,L107,Widrick,3
+SWSS,055,Quantitative Meth SW Research,61143,Z1,T,C,1,1,17:00,20:30, T  R    ,LAFAYE,L107,Widrick,1
+SWSS,055,Quan Method Soc Work Res,61198,Z2,T,C,1,2,TBA,,       ,,,Widrick,1
+SWSS,150,Addressing Sub Abuse in SWPrac,61104,Z1,I,C,1,1,TBA,,       ,,,Leibowitz,1 to 12
+SWSS,224,Child Abuse & Neglect,60054,Z1,L,C,15,8,17:00,20:30,M  W     ,WATERM,423,Solomon,3
+SWSS,296,Social Work in Global Context,60019,TR1,L,C,12,12,TBA,,       ,OFFCMP,SEE NOTES,Witkin,3
+SWSS,380,Perspectives on Social Work,60056,OL1,L,C,12,9,TBA,,       ,ONLINE,SEE NOTES,Solomon,4
+SWSS,380,Practitioners' Own Stories,60055,Z1,L,C,15,12,08:30,12:00,M T W R    ,WATERM,457,Solomon,3
+SWSS,380,Narrative Approaches,60020,Z2,L,C,15,15,09:30,16:30,    F   ,LAFAYE,L100,Sax,3
+SWSS,380,Transf SW Responses,60755,Z4,L,C,15,13,17:00,20:30, T W R    ,WATERM,455,Roche,3
+SWSS,397,Human Service Organizations,61167,Z1,T,C,1,1,TBA,,       ,ONCMP,SEE NOTES,Comerford,3
+THE,010,Acting I: Intro to Acting,60939,Z2,P,C,18,6,09:00,11:30,M T W R    ,RT THR,210,Lourie,3
+THE,095,Identity through Performance,60888,OL1,L,C,20,2,TBA,,       ,ONLINE,SEE NOTES,Perry,3
+THE,095,Special Topics,61210,WD,L,M,0,1,TBA,,       ,,,,3
+THE,095,Musical Theatre: Intensive,60114,Z3,L,C,30,27,08:30,17:30,M T W R F S U ,RT THR,390,Reed,3
+VS,184,Vermont History,60640,Z1,L,C,20,2,08:30,12:00, T  R    ,LAFAYE,L200,Searls,3
+WFB,131,Field Ornithology,60213,SW1,L,C,24,28,06:00,18:00,M T W R F   ,ONCMP,SEE NOTES,Hirth,2
+WFB,150,Wldlf Habitat & Pop Measrmnt,60214,SW2,L,C,24,22,06:00,18:00,M T W R F   ,ONCMP,SEE NOTES,Hirth,1
+WFB,391,Master's Thesis Research,60845,A,T,M,10,0,TBA,,       ,,,Staff,1 to 18
+WGST,095,Identity Through  Performance,60876,OL1,L,C,20,2,TBA,,       ,ONLINE,SEE NOTES,Perry,3
+WGST,095,Performance Art:Beyond the Box,60877,Z2,L,C,1,1,TBA,,       ,ONCMP,SEE NOTES,Perry,3
+WGST,195,Going Beynd Good/Bad Girl Para,60776,Z2,L,C,15,6,08:30,12:00,M  W  F   ,LAFAYE,L107,Sheperdson,3
+WLIT,018,Tolstoy's "Anna Karenina",60188,Z1,L,C,20,5,13:00,16:30, T W R    ,LAFAYE,L210,McKenna,3
+WLIT,118,Tolstoy's "Anna Karenina",60190,Z1,L,C,20,5,13:00,16:30, T W R    ,LAFAYE,L210,McKenna,3

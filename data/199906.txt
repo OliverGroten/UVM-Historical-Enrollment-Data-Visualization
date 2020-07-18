@@ -1,0 +1,561 @@
+ Dept,#,Title,Comp Numb,Sec,Lec Lab,Camp Code,Max Enrollment,Current Enrollment,Start Time,End Time,Days,Bldg,Room,Instructor,Credits
+ANNB,301,Medical Gross Anatomy,60225,Z1,L,C,30,19,09:00,16:00,M T W R F   ,GIVN E,E401,Szilva,8
+ANNB,302,Human Neuroanatomy,60226,Z1,L,C,999,22,13:00,17:00,M T W R F   ,GIVN E,E401,Wells,4
+ANTH,021,Human Cultures,60001,Z1,L,C,50,11,09:00,12:00,M T W R    ,WILLMS,403,McRae,3  
+ANTH,128,Linguistic Anthropology,60229,Z1,L,C,25,5,18:00,21:30,M   R    ,WILLMS,511,Haugh,3  
+ANTH,195,Intro to Visual Anthropology,60334,Z1,L,C,12,5,10:00,15:00,M T W R F   ,WILLMS,511,Broce,4
+ANTH,196,Applied Archaeology,60090,Z1,L,C,15,10,08:00,12:00,M T W R F   ,WILLMS,511,Thomas,3
+ANTH,200,Field Work in Archaeology,60264,Z1,L,C,15,19,08:00,17:00,M T W R F   ,WILLMS,511,Petersen,6
+ANTH,295,Intro to Visual Anthropology,60335,Z1,L,C,12,2,10:00,15:00,M T W R F   ,WILLMS,511,Broce,4
+ANTH,295,Coming of Canadian Immigrants,60309,Z2,L,C,15,3,09:30,16:30,M T W R F S U ,,,Senecal,3
+ANTH,296,Applied Archaeology,60623,A,L,C,1,1,TBA,,       ,,,Thomas,3
+ART,001,Drawing,60247,Z1,O,C,26,21,16:30,19:00,M T W R F   ,WILLMS,416,Owre,3  
+ART,003,Three-Dimensional Studies,60171,Z1,O,C,15,12,09:00,12:25,M  W     ,WILLMS,112,Fry,3  
+ART,004,Intro to Film/Video Production,60311,Z1,O,C,14,14,09:00,11:30,M T W R    ,WILLMS,403,Ungerer,3  
+ART,095,Pastel with Mixed Media,60002,Z1,O,C,15,9,12:15,15:15, T  R    ,WILLMS,416,Dye,3
+ART,095,Introduction to Ceramics,60445,Z2,A,C,15,15,09:00,11:00,M T W R    ,WILLMS,106,Carter,3
+ART,095,Introduction to Photography,60472,Z3,B,C,12,14,09:00,11:00,M T W R    ,L/L CM,218,Miller,3
+ART,113,Clay: Hand Building,60170,Z1,O,C,20,9,09:00,12:15, T  R    ,WILLMS,106,Carter,3  
+ART,116,Drawing From the Figure,60041,Z1,O,C,12,11,14:00,17:15, T W R    ,RT THR,210,Thaler,3  
+ART,116,Drawing From the Figure,60489,Z2,O,C,12,2,18:30,21:30, T W R    ,RT THR,210,Thaler,3  
+ART,132,Printmaking: Silkscreen,60103,Z1,O,C,15,11,09:00,12:00,M T W R F   ,WILLMS,309,Davison,3  
+ART,137,Photography,60112,Z1,O,C,0,17,09:30,12:00,M T W R F   ,WILLMS,506,Higgins,3  
+ART,141,Sculpture,60638,WD,O,C,999,0,09:30,12:00,       ,,,,3  
+ART,141,Sculpture,60043,Z1,O,C,15,12,09:00,12:15, T  R    ,WILLMS,112,Fry,3  
+ART,145,Graphic Design,60212,Z1,O,C,15,7,08:00,12:00,M T W R F   ,WILLMS,305,Meyer,3  
+ART,195,Outdoor Landscape Painting,60647,WD,O,C,999,0,08:00,12:00,       ,,,,3
+ART,195,Watercolor,60044,Z1,L,C,15,8,08:30,11:30, T  R    ,WILLMS,213,Dye,3
+ART,195,Outdoor Landscape Painting,60045,Z2,O,C,15,14,16:00,19:00, T  R    ,WILLMS,213,Dye,3
+ART,195,Know Place:Draw&Ecol Percept,60113,Z3,O,C,15,10,09:00,12:00,M T W R F   ,WILLMS,416,Davis,3
+ART,195,Intermediate Special Topics,60621,Z5,L,C,1,0,TBA,,       ,WILLMS,106,Carter,3
+ART,237,Advanced Photography,60067,Z1,O,C,15,11,10:00,12:45,M T W R F   ,WILLMS,506,Brennan,3  
+ART,295,Special Topics in Studio Art,60518,A,O,M,1,1,TBA,,       ,,,Davis,3  
+ART,295,Knowing Place:Draw&Ecol Percep,60510,Z2,O,C,1,0,09:00,12:00,M T W R F   ,WILLMS,416,Davis,3  
+ASCI,043,Fundamentals of Nutrition,60003,Z1,L,C,999,6,09:00,12:00,M T W R F   ,ROWELL,110,Carew,3  
+ASCI,195,Field Experience,60529,A,L,M,999,1,TBA,,       ,,,Bramley,1 to 15
+ASCI,391,Master's Thesis Research,60458,A,T,M,999,0,TBA,,       ,,,Staff,1 to 9
+ASCI,392,Independent Literature Rsch,60459,A,I,M,999,0,TBA,,       ,,,Staff,1 to 6
+ASCI,491,Doctoral Dissertation Research,60460,A,T,M,999,1,TBA,,       ,,,Staff,1 to 12
+BIOC,491,Doctoral Dissertation Research,60496,A,T,M,999,6,TBA,,       ,,,Staff,1 to 12
+BIOL,001,Principles of Biology,60005,Z1,L,C,35,35,08:30,12:00, T  R    ,ML SCI,Y114,Olivetti,4
+BIOL,002,Principles of Biology,60205,Z1,L,C,35,21,08:30,12:00, T  R    ,ML SCI,,Olivetti,4
+BIOL,003,Human Biology,60619,WD,L,C,999,1,08:30,12:00,       ,,,,3  
+BIOL,003,Human Biology,60446,Z1,L,C,15,11,09:00,11:00,M T W R    ,ML SCI,202,Riley,3  
+BIOL,195,Research Apprenticeship,60542,A,L,M,999,1,TBA,,       ,,,Timmons,0 to 6
+BIOL,391,Master's Thesis Rsch,60506,A,T,M,999,0,TBA,,       ,,,Schall,1 to 10
+BIOL,491,Doctoral Dissertation Rsch,60507,A,T,M,999,3,TBA,,       ,,,Schall,1 to 10
+BMT,054,Principles of Microbiology,60284,Z1,L,C,26,17,16:00,20:00, T  R    ,ROWELL,244,Wilcke,4
+BMT,391,Masters Thesis Research,60501,A,T,M,999,1,TBA,,       ,,,Vichi,1 to 6
+BOT,109,Field Botany,60165,Z1,L,C,20,19,09:00,12:30,M T W R F   ,ML SCI,131,Barrington,4
+BOT,295,Aquatic Bot Lk Champlain Basin,60166,Z1,L,C,15,9,08:00,17:00,M  W  F   ,ML SCI,131,Paris,4
+BOT,295,VT Forests&Their Native Plants,60167,Z2,L,C,17,13,13:00,17:00,  W  F   ,ML SCI,131,Paris,4
+BOT,295,Reading the Landscape,60173,Z3,L,C,12,12,08:30,16:30,M T W R F   ,ML SCI,131,Hughes,2
+BOT,295,Plant Biol Mid&High Schl Tchrs,60177,Z4,L,C,20,6,11:00,14:00,M T W R F   ,ML SCI,131,Olivetti,3
+BOT,295,Methods for Field Ecologists,60214,Z5,L,C,12,6,09:00,18:00,M T W R F   ,AIKEN,202,Hughes,3
+BOT,391,Master's Thesis Research,60526,A,T,M,999,0,TBA,,       ,,,Staff,1 to 10
+BSAD,017,Business Law,60362,Z1,L,C,30,7,17:30,20:45, T  R    ,KALKIN,110,Kasper,3  
+BSAD,018,Business Law,60363,Z1,L,C,30,7,17:30,20:45, T  R    ,KALKIN,110,Kasper,3  
+BSAD,040,Information Technology & Mgmt,60006,Z1,L,C,16,6,09:00,11:45,M T W R F   ,KALKIN,004,Kraushaar,3
+BSAD,060,Financial Accounting,60007,Z1,L,C,30,13,09:00,11:45,M T W R F   ,KALKIN,003,Dempsey,4
+BSAD,061,Managerial Accounting,60237,Z1,L,C,30,15,09:00,11:15,M T  R F   ,KALKIN,003,Walker,4
+BSAD,065,Fundamentals of Accounting,60008,Z1,L,C,30,6,09:00,11:40,M T W R F   ,KALKIN,001,Hunt III,4  
+BSAD,120,Mgmt & Organizational Behavior,60364,Z1,L,C,20,30,10:30,12:40,M T  R F   ,KALKIN,101,McIntosh,3
+BSAD,132,Legal & Political Environment,60365,Z1,L,C,30,12,13:00,15:45,M T  R    ,KALKIN,002,Averyt,3  
+BSAD,141,Mgmt Information Systems,60114,Z1,L,C,16,13,09:00,11:30,M T W R F   ,KALKIN,004,Kraushaar,3  
+BSAD,146,Loc Area Net/Wrk Grp & Sm Bus,60238,Z1,L,C,0,12,14:00,16:45,M T W R F   ,KALKIN,004,Kraushaar,3  
+BSAD,147,Local Area Networking Lab,60130,Z1,B,C,0,12,18:00,19:00,M T W R F   ,KALKIN,004,Ritter,1  
+BSAD,161,Intermediate Accounting,60046,Z1,L,C,30,4,12:30,14:30,M T W R F   ,KALKIN,004,Dempsey,3  
+BSAD,178,Quality Control,60047,Z1,L,C,30,23,09:00,12:15, T W R    ,KALKIN,002,Golann,3  
+BSAD,180,Managerial Finance,60048,Z1,L,C,30,8,13:00,15:20,M T  R    ,KALKIN,110,Gatti,3  
+BSAD,197,Independent Study,60444,A,T,M,999,3,TBA,,       ,,,Staff,1 to 6
+BSAD,197,Independent Study,60639,B,T,M,1,1,TBA,,       ,,,Tashman,3
+BSAD,197,Independent Study,60640,C,T,M,1,1,TBA,,       ,,,Gatti,3
+BSAD,295,ST: International Trade,60366,Z1,L,C,30,16,17:00,20:00,M T  R    ,KALKIN,002,Averyt,3
+BSAD,307,Organization & Mgmt Studies,60367,Z1,L,C,20,3,16:30,18:30,M T  R F   ,KALKIN,101,McIntosh,3  
+BSAD,346,Decision Making Models,60131,Z1,L,C,30,11,08:30,16:30,M  W  F   ,KALKIN,001,Tashman,3  
+BSAD,394,Independent Readings&Research,60517,A,T,M,0,2,TBA,,       ,,,Staff,1 to 3
+BSAD,395,ST: E-Commerce,60368,Z2,L,C,30,24,17:00,19:40,M T  R    ,KALKIN,004,Thompson,3
+CDAE,159,Consumer Assistance Program,60186,Z1,B,C,12,4,TBA,,       ,,,Ashman,3 to 6
+CDAE,191,Special Problems,60533,A,L,M,999,1,TBA,,       ,,,Staff,1 to 6
+CDAE,195,Internet Appl Agric & Life Sci,60050,Z1,L,C,18,15,13:30,16:00,M T W R    ,MORRIL,005,Leonard,3
+CDAE,196,Field Experience/Practicum,60470,A,I,M,999,10,TBA,,       ,,,Ferreira,1 to 15
+CDAE,291,Small Business Planning,60520,Z1,L,C,1,1,TBA,,       ,MORRIL,103,McElvany,4
+CDAE,296,Field Experience/Practicum,60471,A,I,M,999,7,TBA,,       ,,,Ferreira,1 to 15
+CE,001,Statics,60009,Z1,L,C,25,6,08:00,10:00,M T W R    ,VOTEY,207,Downer,3
+CE,002,CE Graphic Design,60010,Z1,L,C,18,7,17:00,20:30,M       ,VOTEY,206,Rossi,3
+CHEM,031,Introductory Chemistry,60265,Z1,L,C,38,31,13:00,16:00,M T W     ,,,Sharp,4
+CHEM,032,Introductory Chemistry,60649,WD,L,C,999,0,13:00,16:00,       ,,,,4
+CHEM,032,Introductory Chemistry,60266,Z1,L,C,39,23,13:00,16:00,M T W     ,,,Sharp,4
+CHEM,141,Organic Chemistry,60124,Z1,L,C,78,45,13:00,16:00,M T W     ,ANGELL,,Horn,4
+CHEM,142,Organic Chemistry,60126,Z1,L,C,78,42,13:00,16:00,M T W     ,ANGELL,,Horn,4
+CHEM,143,Organic Chemistry for Majors,60125,Z1,L,C,60,3,09:00,12:00,M T W R F   ,ANGELL,B106,Horn,3  
+CHEM,144,Organic Chemistry for Majors,60127,Z1,L,C,60,3,09:00,12:00,M T W R F   ,ANGELL,B106,Horn,3  
+CHEM,291,Undergrad Research,60457,A,T,M,5,2,TBA,,       ,,,Landry,1 to 4
+CLBI,391,Master's Thesis Research,60454,A,T,M,999,1,TBA,,       ,,,Huot,1 to 12
+CLBI,491,Doctoral Dissertation Research,60455,A,T,M,999,6,TBA,,       ,,,Huot,1 to 12
+CMSI,001,Elem American Sign Language 1,60374,Z1,L,C,12,5,17:00,20:30,M  W     ,LAFAYE,L102,Straubhaar,3
+CMSI,001,Elem American Sign Language 1,60375,Z2,L,C,12,6,16:30,19:30,M  W     ,LAFAYE,L111,Bearman,3
+CMSI,001,Elem American Sign Language 1,60389,Z3,L,C,12,4,17:00,20:15, T  R    ,LAFAYE,L102,Straubhaar,3
+CMSI,002,Elem American Sign Language II,60376,Z1,L,C,12,0,16:30,19:30, T  R    ,LAFAYE,L111,Bearman,3
+CMSI,291,Clinical Study,60219,Z1,I,C,8,8,TBA,,       ,,,Prelock,3
+CMSI,295,Innov Chldrn w/Autism Spec Dis,60098,Z1,L,C,0,54,08:30,17:30,M T W R F   ,,,Prelock,3
+CMSI,310,Prep&Mgt Speech&Lang Eval Thrp,60453,Z1,L,C,15,13,16:00,21:00,M T W R F   ,LAFAYE,L210,Bruce,3  
+CMSI,381,Advanced Readings,60611,A,T,M,1,1,TBA,,       ,,,Guitar,1
+CS,002,Microcomputer Appl Software,60132,Z1,L,C,23,18,10:00,12:00,M T W R    ,VOTEY,105,Erickson,3
+CS,021,Computer Programming I,60011,Z1,L,C,15,14,09:00,11:00, T  R    ,VOTEY,105,Douglas,4
+CS,195,Internship,60545,A,L,M,1,1,TBA,,       ,,,Erickson,3
+CS,391,Master's Thesis Research,60521,A,T,M,999,1,TBA,,       ,,,Staff,1 to 18
+EC,011,Principles of Macroeconomics,60210,Z1,L,C,25,19,13:00,15:30,M T W R F   ,LAFAYE,L302,Thomson,3  
+EC,012,Principles of Microeconomics,60217,Z1,L,C,25,14,10:00,12:30,M T W R F   ,LAFAYE,L302,Saunders,3  
+EC,298,Readings & Research,60508,A,L,M,10,1,TBA,,       ,,,Staff,3
+ECHD,005,Human Development,60179,Z1,L,C,25,23,08:00,12:30, T  R    ,L/L-B,B132,Shelton,3  
+ECHD,263,Advanced Child Development,60180,Z1,L,C,20,5,08:00,12:30,M T W R F   ,L/L-B,B132,Shelton,3  
+ECHD,291,Special Problems,60615,Z1,T,C,1,1,TBA,,       ,,,Goldhaber,3
+ECHD,296,Field Experience,60291,Z1,I,C,10,5,TBA,,       ,,,Shelton,1 to 15
+EDAR,284,Current Issues in Art & Ed,60479,A,L,M,1,1,TBA,,       ,,,McIntyre,3  
+EDCO,291,Adv Counsel Strategy Educators,60643,A,L,C,1,0,TBA,,       ,,,Staff,1 to 3
+EDCO,291,Adv Counsel Strategy Educators,60644,B,L,C,1,0,TBA,,       ,,,Staff,1 to 3
+EDCO,291,Chldrn&Loss:Creative Survival,60387,MT1,L,C,30,8,09:00,12:15, T  R    ,,,Fry,1 to 3
+EDCO,291,Surviving Family Abuse,60388,MT2,L,C,30,11,09:00,12:15, T  R    ,,,Fry,1 to 3
+EDCO,291,Spirit of Growth & Dev in Bali,60642,WD,L,C,999,0,09:00,12:15,       ,,,,3
+EDCO,291,Life Space Crisis Intervention,60181,Z1,L,C,25,5,13:00,17:00,M T W R F   ,L/L-B,B101,Towne,3
+EDCO,291,Couns Stdnts College Admission,60182,Z2,L,C,20,5,12:45,17:00,M T W R F   ,L/L-A,A102,Pasco,3
+EDCO,291,Legal Iss for Schl Counselors,60183,Z3,L,C,25,9,08:30,11:30,M T W R F   ,L/L-A,A101,Cernosia,1
+EDCO,291,Using Adventure Based Programs,60249,Z4,L,C,20,11,08:00,13:00,M T W R F   ,L/L CM,216,Eliason,2
+EDCO,291,Using Dreams in Psychotherapy,60251,Z5,L,C,12,7,08:00,12:15,M T W R    ,,,Weiss,1
+EDCO,291,Treatment of Chronic Pain,60252,Z6,L,C,12,4,08:00,12:15,M T W R    ,L/L-A,A102,Weiss,1
+EDCO,291,Diversity Issues in Counseling,60370,Z7,L,C,25,8,16:00,20:30,M T W R F   ,,,Gallagher,3
+EDCO,291,Spirit of Growth & Dev in Bali,60305,Z8,L,C,12,13,TBA,,M T W R F   ,,,Osgood,3
+EDCO,310,Counseling Strats for Teachers,60253,RU1,L,C,20,14,08:00,16:00,M T W R F   ,,,Klette,3  
+EDCO,310,Counseling Strats for Teachers,60254,SA1,L,C,20,8,08:00,16:00,M T W R F   ,,,Klette,3  
+EDCO,383,Counseling Practicum,60411,A,L,M,999,5,TBA,,       ,72 UHT,,Geroski,1  
+EDCO,384,Counseling Internship,60412,A,I,M,999,4,TBA,,       ,72 UHT,,Geroski,1 to 6
+EDCO,394,Adv Counseling Strats for Educ,60255,RU1,L,C,20,14,08:00,16:00,M T W R F   ,,,Klette,3
+EDCO,394,Brief Psychotherapy,60123,Z1,L,C,20,3,08:00,12:30,M T W R F   ,WATERM,457,Gottlieb,3
+EDCO,394,Five Challenging Kids & Couns,60185,Z2,L,C,20,10,08:00,14:00,M T W R F   ,,,Kraus,2
+EDCO,397,Independent Study,60610,RU,T,C,1,1,08:00,16:00,M T W R F   ,,,Klette,1
+EDEL,055,Oral Interpretation of Lit,60129,Z1,L,C,20,5,08:00,12:00,M T W R F   ,LAFAYE,L210,Abel,3
+EDEL,197,Readings & Research,60478,A,L,M,999,1,TBA,,       ,,,Daniels,1 to 8
+EDEL,200,ESL Practicum:Invite Read&Wrt,60297,BU1,L,C,15,5,12:00,14:30, T W R F   ,,,Siegel,1
+EDEL,200,Responsive Classroom Institute,60534,MO1,L,C,20,20,08:00,16:30,M T W R F   ,,,Titterton,3
+EDEL,200,Promising Pract Literacy Instr,60224,Z1,L,C,16,9,TBA,,       ,,,Chomsky-Hi,3
+EDEL,200,ESL Teaching Strategies,60296,Z3,L,C,25,8,08:00,15:00,M T W R F   ,WATERM,458,Mosteiro-M,3
+EDEL,200,11th Symposium Authors&Illustr,60396,Z4,L,C,25,13,08:00,16:00,M T W R F   ,KALKIN,001,Lang,3
+EDEL,295,Lab Experience in Education,60528,A,L,M,999,1,TBA,,       ,,,Mekkelsen,3
+EDFS,200,Art Culture&Educ Oaxaca Mexico,60358,Z1,L,C,15,12,TBA,,M T W R F   ,,,Teran,3  
+EDFS,206,Comparative Education,60099,Z1,L,C,20,11,08:00,12:00,M T W R F   ,ROWELL,242,Vargas,3  
+EDFS,209,Intro to Research Methods,60316,DL1,L,C,999,4,08:00,12:30,M T W R F   ,,,Ferrara,3  
+EDFS,209,Intro to Research Methods,60307,Z1,L,C,20,6,08:00,12:15,M T W R F   ,WATERM,401,Bursell,3  
+EDFS,209,Intro to Research Methods,60315,Z2,L,C,25,7,08:00,12:30,M T W R F   ,LAFAYE,L400,Ferrara,3  
+EDFS,255,School as Social Institution,60187,Z1,L,C,20,17,08:00,12:00,M T W R F   ,ROWELL,118,McCollum,3  
+EDFS,303,Ethics Helping Relationships,60188,Z1,L,C,20,22,16:00,20:00,M T W R F   ,WATERM,400,Nash,3  
+EDFS,314,Modes of Inquiry,60189,Z1,L,C,17,9,08:00,12:00,M T W R F   ,WATERM,400,Kesson,3  
+EDFS,322,Chall Multicultrsm/Ed&Soc Inst,60190,Z1,L,C,15,12,08:00,12:00,M T W R F   ,WATERM,539,Shiman,3  
+EDFS,397,Problems in Education,60477,A,L,M,999,4,TBA,,       ,,,Shiman,1 to 6
+EDHI,380,Controversies of the Academy,60191,Z1,L,C,20,10,16:00,20:00,M T W R F   ,ROWELL,118,Hunter,3  
+EDHI,395,Lab Experience in Education,60431,A,I,M,999,1,TBA,,       ,,,Gribbons,2  
+EDHI,397,Problems in Education,60432,A,L,M,999,0,TBA,,       ,,,Manning,1 to 6
+EDHI,491,Doctoral Dissertation Research,60494,A,T,M,999,1,TBA,,       ,,,Manning,1 to 12
+EDLI,274,Design Instr Sch Lbr Media Ctr,60482,SP1,L,C,20,6,08:30,13:00,M T W R F   ,,,Bonifanti,3  
+EDLP,200,Making Connections,60410,MT1,L,C,45,23,TBA,,M T W R   U ,,,Tavalin,3
+EDLP,200,Leadership for Tomorow,60632,RA1,L,C,20,24,09:00,16:00,       ,,,Proulx,0 to 6
+EDLP,268,Vermont School Law Colloquium,60248,Z1,L,C,40,19,08:00,12:00,     S  ,KALKIN,110,Cernosia,3
+EDLP,280,Schl Business Mgmt,60192,Z1,L,C,25,10,08:00,12:00,M T W R F   ,WATERM,400,Proulx,3  
+EDLP,319,Internship,60413,A,I,M,999,0,TBA,,       ,,,Hasazi,1 to 6
+EDLP,319,Internship,60504,Z1,I,C,1,1,TBA,,M T W R F   ,,,Conrad,3
+EDLP,380,Negotiation & Collaboration,60161,RU1,L,C,18,7,08:00,17:00,M  W  F   ,,,O'Donnell,3
+EDLP,397,Problems in Education,60414,A,L,M,999,7,TBA,,       ,,,Hasazi,1 to 6
+EDLP,491,Doctoral Dissertation Research,60415,A,T,M,999,10,TBA,,       ,,,Hasazi,1 to 14
+EDPE,023,Advanced First Aid,60193,Z1,L,C,20,19,18:00,21:00,M T W R F   ,PATGYM,117,Reinhardt,3  
+EDPE,166,Kinesiology,60312,Z1,L,C,20,8,08:00,11:00,M T W R F   ,PATGYM,117,Connolly,3  
+EDPE,200,Using Adventure Based Programs,60250,Z1,L,C,20,3,08:00,13:00,M T W R F   ,L/L CM,216,Eliason,2
+EDPE,220,Sport in Society,60325,Z1,L,C,25,8,09:00,12:15,M T W R F   ,L/L-A,A101,Wessinger,3  
+EDPE,241,Increase Lrng Opportunities,60314,Z2,L,C,25,1,16:00,19:00,M T W R F   ,PATGYM,118,Kasser,3
+EDPE,295,Lab Experience in Education,60633,A,L,M,999,1,TBA,,       ,,,Alosa,1 to 12
+EDSC,200,Standards Based Curric&Assess,60552,CS1,L,C,999,34,08:00,16:00,M T W R F   ,,,Sanborn,3  
+EDSC,200,Middle Grades Organization,60503,Z1,L,C,15,13,15:30,20:00,M T W R F   ,WATERM,458,Bishop,3  
+EDSC,207,Adoles Lrng/Beh&Cog Perspect,60408,Z1,L,C,15,6,08:30,16:30,M T W R F   ,LAFAYE,L200,Bishop,3  
+EDSC,207,Adoles Lrng/Beh&Cog Perspect,60409,Z2,L,C,20,27,08:30,16:30,M T W R F   ,LAFAYE,L207,Prue,3  
+EDSC,209,Practicum in Teaching,60407,SW1,L,C,35,33,08:00,15:30,  W     ,,,Cravedi-Ch,3  
+EDSC,295,Lab Experience,60537,A,L,M,999,0,TBA,,       ,,,Cravedi-Ch,1 to 12
+EDSC,295,Lab Experience,60620,B,L,M,999,1,TBA,,       ,,,Fishell,1 to 12
+EDSP,200,Special Education Law,60328,Z1,L,C,25,7,08:00,12:30,M T W R F   ,WATERM,457,Blackwood,3
+EDSP,295,Accomodations for Inclusion,60525,BU1,L,C,25,2,16:00,19:10,M       ,,,Fox,3
+EDSP,295,Laboratory Exp in Education,60634,CO1,L,C,20,19,08:00,16:00,  W R F   ,,,Salembier,3
+EDSP,295,Shaping Emotion&Beh Competence,60290,KL1,L,C,0,114,08:00,16:00,M T W R F   ,,,Richards,3
+EDSP,295,Admin&Intrp Woodcock-Johnson,60259,Z1,L,C,12,12,08:00,12:00,M T W R F   ,WATERM,427,Hock,3
+EDSP,295,Movement Therapy w/Chldrn&Yth,60443,Z4,L,C,50,5,09:00,16:30,M T W R    ,BILLIN,,Freeman,0 to 3
+EDSP,295,Intro Assistive Tech Spec Educ,60524,Z5,L,C,30,5,09:00,15:30,M T W R F   ,LAFAYE,L107,Cloninger,1
+EDSP,387,Collaborative Consultation,60390,MT1,L,C,30,6,08:30,12:45,M T W R F   ,,,Shepherd,3  
+EDSP,387,Collaborative Consultation,60258,Z1,L,C,30,17,08:30,12:45,M T W R F   ,LAFAYE,L411,Shepherd,3  
+EDSP,397,Problems in Education,60593,A,L,M,15,10,TBA,,       ,,,Salembier,1 to 6
+EDSS,055,Special Topics,60511,A,L,M,999,0,TBA,,       ,,,Mohler,2 to 6
+EDSS,197,Readings & Research,60512,A,L,M,999,1,TBA,,       ,,,Mohler,1 to 4
+EDSS,200,Computing for Beginners,60333,A,L,C,14,13,09:00,14:00,M T W R    ,WATERM,113Q,Buckland P,3
+EDSS,200,Standards-Based Poetry Assess,60535,AS1,D,C,999,19,08:00,21:00,  W R F S U ,,,Bishop,3
+EDSS,200,Developing Psycho-Educ Reports,60580,BD1,L,C,999,9,08:00,16:00,M T   F   ,,,Dilts,3
+EDSS,200,Impl VT Stnd Curr Instr&Assess,60604,BH1,L,C,20,17,08:00,16:00,M T W R F   ,,,Snelgrove,3
+EDSS,200,Design Standards-Based Units,60486,BL1,L,C,999,13,08:00,15:30,M T W R F   ,,,Weiss,3
+EDSS,200,Earth Univ&Envr:Thry Syst&Forc,60609,BL3,L,C,15,6,08:00,16:00,M T W R    ,,,Wight,2
+EDSS,200,Beyond Stndrds:Create Lrng Op,60571,BU1,L,C,50,45,08:00,16:30,M T W R F   ,,,Mellencamp,0 to 6
+EDSS,200,Tchg Math Stndrds:Curric Plan,60603,BU2,L,C,999,55,08:00,16:30,M T W R F   ,,,Mellencamp,3
+EDSS,200,Improving Literacy Grds 3-5,60625,BU3,L,C,35,10,08:00,12:15,M T W R F   ,,,Lipson,0 to 6
+EDSS,200,Hyperstudio for Clrm Tchrs,60630,BU4,L,C,20,4,09:00,15:00,M T W R F   ,,,Cavanaugh,0 to 6
+EDSS,200,Thry&Prac in Teaching Writing,60384,D,L,C,25,5,09:00,16:00,M T W R    ,L/L-B,B180,McGonegal,6
+EDSS,200,Getting Started w/Invest Math,60586,ET1,L,C,999,92,08:00,16:00,M T W R F   ,,,Yaffee,3
+EDSS,200,Stndrds Assess Rdg&Inst Strat,60588,HA1,L,C,20,15,08:00,16:30,M T W R F   ,,,Mock,0 to 6
+EDSS,200,Software Soultion Sp Educators,60583,HD1,L,C,20,8,08:00,16:30, T W R F S  ,,,Hiersche,3
+EDSS,200,Connecting Math & Science,60589,HN1,L,C,30,10,08:00,15:30,M T W R F   ,,,Bellman,3
+EDSS,200,Middle Lev Curric&Instruction,60427,JO1,L,C,999,3,08:00,21:00,M T W R F  U ,,,Bishop,3
+EDSS,200,Middle Level Schl Organization,60430,JO4,L,C,999,2,08:00,21:00,M T W R F  U ,,,Bishop,3
+EDSS,200,Standards-Based Curric Develop,60567,KL1,L,C,50,12,08:30,16:30,M T W R F   ,,,Nichols,0 to 6
+EDSS,200,Digital Video Edit/Instr Tool,60438,MI1,X,C,15,12,16:00,19:00,  W     ,,,Martin,1
+EDSS,200,Design Internet Activities,60572,MI2,L,C,15,9,08:00,16:00,M T W     ,,,Denice,3
+EDSS,200,Integr Your K-12 Hlth Curric,60590,MI3,L,C,999,5,08:30,14:00, T  R F   ,,,Gill,1
+EDSS,200,Intro Observ Surv&Rdg Recovery,60613,MI4,L,C,15,6,09:00,16:00,M T W R F   ,,,Lewis,2
+EDSS,200,Understanding Teaching I,60624,MI5,L,C,35,26,08:00,15:00, T W R F   ,,,Platt,3
+EDSS,200,Mathematics for Astronomy,60628,MI6,L,C,15,7,08:00,16:00,M T W R  S U ,,,Sharma,2
+EDSS,200,Math Institute - 1999,60629,MI7,L,C,25,17,08:00,15:00, T W R F S  ,,,Sharma,2
+EDSS,200,Intro Universe&Phys of Motion,60548,MI8,L,C,25,9,08:30,15:30,M T W R F   ,,,Ratcliff,3
+EDSS,200,Block Scheduling,60549,MI9,L,C,25,13,08:00,16:00, T W R F   ,,,Pezzulo,3
+EDSS,200,Dev Stnds-Bs Stdy Applied Lrng,60536,MO1,L,C,20,29,08:00,15:30,M T W R F   ,,,Stanton,3
+EDSS,200,Integrating Info Tech in Clrm,60569,MR1,L,C,16,9,08:00,17:00,M T W R F   ,,,Brady,3
+EDSS,200,Principle of Effect Instr Math,60581,PI1,L,C,999,8,08:00,12:00,M T W R F   ,,,Bourne,2
+EDSS,200,Current Direct Curric&Inst II,60577,RF1,L,C,20,8,08:00,16:00,M T W R F   ,,,Griffin-Ha,3
+EDSS,200,Career Education Workshop,60292,RU1,L,C,15,14,08:00,17:00,M T W R F   ,,,Eagan,3
+EDSS,200,Summer Inst 1999:Capstone Init,60435,RU4,L,C,20,23,08:00,16:00,M T W R F   ,,,Spencer,3
+EDSS,200,Reading Across Content Areas,60616,RU5,L,C,20,8,08:30,15:30,M T W R F   ,,,Metzke,3
+EDSS,200,Building Strategic Readers,60617,RU6,L,C,20,9,08:30,15:00,M T W     ,,,Biggam,2
+EDSS,200,Star Base Teacher Academy,60288,SB1,L,C,999,10,08:00,16:00, T W R F   ,,,Lewis,3
+EDSS,200,Reach Standards in Rdg:Grs 3-8,60582,SB2,L,C,50,40,08:30,16:30,M T W     ,,,Biggam,3
+EDSS,200,Theory of Numbers Elem Tchrs I,60600,SB3,L,C,35,37,08:00,16:00,M T W R F   ,,,Gross,3
+EDSS,200,Math Anyl for Elem Tchrs I,60605,SB4,L,C,35,38,08:00,16:00,M T W R F   ,,,Gross,3
+EDSS,200,Implement Your Action Plan I,60423,SJ1,L,C,999,18,08:30,15:30,M T W R F   ,,,Heussler,3
+EDSS,200,Implement Your Action Plan II,60424,SJ2,L,C,999,8,08:30,15:30,M T W R F   ,,,Heussler,3
+EDSS,200,Discovering Addison County,60568,SL1,L,C,25,15,08:30,17:00,M T W R F   ,,,Madden,3
+EDSS,200,Chittenden East Standards Sem,60612,UH1,L,C,15,10,08:00,16:00,M T W R F   ,,,Demarest,3
+EDSS,200,Observing & Analyzing Tchg I,60626,VG1,L,C,35,13,08:30,15:00, T W R F   ,,,Platt,3
+EDSS,200,Microsoft Office as Tchg Tool,60636,WD,L,C,999,0,08:30,15:00,       ,,,,3
+EDSS,200,Improving Literacy Grds 3-5,60645,WD2,L,C,999,0,08:30,15:00,       ,,,,2
+EDSS,200,Complex Instruction Institute,60426,WX1,L,C,20,15,08:30,16:00,M T W R F   ,,,Rathbone,3
+EDSS,200,Contemporary Issues,60579,WX2,L,C,20,14,08:30,16:00,M T W R F   ,,,Rathbone,3
+EDSS,200,Plant Biol Mid&High Schl Tchrs,60178,Z1,L,C,20,4,11:00,14:00,M T W R F   ,ML SCI,131,Olivetti,3
+EDSS,200,Field Trip to Historic Vermont,60298,Z10,L,C,11,11,08:00,16:30,M T W R F   ,ROWELL,118,Beller,3
+EDSS,200,Field Trip to Historic Vermont,60299,Z11,L,C,11,6,08:00,16:30,M T W R F   ,ROWELL,118,Beller,3
+EDSS,200,Coming of Canadian Immigrants,60310,Z12,L,C,15,0,09:30,16:30,M T W R F S U ,,,Senecal,3
+EDSS,200,The Holocaust & Holocaust Educ,60196,Z2,L,C,25,12,08:00,16:30,M T W R F   ,KALKIN,101,Bernheim,3
+EDSS,200,Hands-On History,60199,Z3,L,C,12,5,08:00,12:15,M T W R F   ,ROWELL,118,Beller,3
+EDSS,200,Des Stndrds-Based Units/Study,60200,Z4,L,C,20,16,08:00,16:00, T W R F   ,LAFAYE,L107,Fay Jr.,3
+EDSS,200,Microsoft Office as Tchg Tool,60201,Z5,L,C,12,8,08:30,16:30,M T W R F   ,WATERM,113Q,Buckland P,3
+EDSS,200,HyperStudio:A Multimedia Prog,60202,Z6,L,C,12,13,08:30,17:00,M T W R F   ,WATERM,426,Morris,3
+EDSS,200,Computers in the Classroom,60203,Z7,L,C,14,3,08:30,13:15,M T W R    ,WATERM,113T,Warner,3
+EDSS,200,Ecology of Vermont Wetlands,60281,Z9,L,C,14,0,12:30,17:30,M T W R F   ,AIKEN,222,Williams,3
+EDSS,239,S.L.I.P. Seminar,60261,Z1,L,C,40,9,TBA,,       ,,,Lamontagne,1 to 12
+EDSS,261,Current Dir:Curric&Instruction,60492,HP1,L,C,999,12,TBA,,       ,,,Richardson,3  
+EDSS,261,Mini/Middle REAL Enterprises,60425,ST1,L,C,999,22,08:00,17:00,M T W R F   ,,,Coultas,3  
+EDSS,295,Laboratory Exp in Education,60509,A,L,M,999,2,TBA,,       ,,,Mohler,0 to 6
+EDSS,295,Institute on China&Its Culture,60469,CH1,L,C,15,17,TBA,,       ,,,Wang,3
+EDSS,295,The Institute in Japan,60468,JP1,L,C,15,15,TBA,,       ,,,Wang,3
+EDSS,295,Stndrds Based Curr/Prsnl Lrng,60635,MT1,L,C,999,0,TBA,,       ,,,Friedrichs,3
+EDSS,295,Publishing on World Wide Web,60294,Z1,L,C,12,11,08:30,17:00,M T W R F   ,WATERM,426,Morris,3
+EDSS,295,Publishing on World Wide Web,60295,Z2,L,C,12,12,08:30,17:00,M T W R F   ,WATERM,426,Morris,3
+EDSS,295,Treasure Hunting on Internet,60300,Z3,L,C,12,4,08:00,15:00,M T      ,OMANEX,A200,Abruscato,1
+EDSS,295,Treasure Hunting on Internet,60301,Z4,L,C,12,11,08:00,15:00,   R F   ,OMANEX,A200,Abruscato,1
+EDSS,295,Treasure Hunting on Internet,60302,Z5,L,C,12,11,08:00,15:00,M T      ,OMANEX,A200,Abruscato,1
+EDSS,295,Riding the Information Highway,60303,Z6,L,C,12,12,08:30,17:00,M T W R F   ,WATERM,426,Morris,3
+EDSS,295,Asian Stds Institute Across VT,60606,Z7,L,C,30,16,08:30,15:30,M T W R F   ,TERRIL,222,Wang,0 to 6
+EDSS,313,Stat Meth Ed & Social Services,60262,Z1,L,C,999,16,08:00,12:00,M T W R F   ,WATERM,401,Erb,3  
+EDSS,397,Problems in Education,60513,A,L,M,999,3,TBA,,       ,,,Mohler,1 to 6
+EE,186,Senior Lab II,60543,A,B,M,1,1,TBA,,       ,,,Alajajian,1  
+EE,295,Semiconductor Sensors (MEMS),60276,Z1,L,C,20,22,17:00,21:00,M  W     ,LAFAYE,L302,Fuhr,3
+EE,391,Master's Thesis Research,60540,A,T,M,999,1,TBA,,       ,,,Staff,1 to 18
+EE,491,Doctoral Dissertation Research,60541,A,T,M,999,0,TBA,,       ,,,Staff,1 to 18
+ENG,001,Written Expression,60243,Z1,L,C,25,11,09:00,11:00,M T W R    ,LAFAYE,L308,Williamson,3  
+ENG,001,Written Expression,60351,Z2,L,C,18,15,18:00,20:15,M   R    ,LAFAYE,L107,Deal,3  
+ENG,001,Written Expression,60352,Z3,L,C,25,10,13:00,14:30,M T W R    ,OMANEX,A206,Goodson,3  
+ENG,001,Written Expression,60353,Z4,L,C,25,8,14:00,15:45,M T W R    ,LAFAYE,L111,Harrison,3  
+ENG,023,American Literature,60372,Z1,L,C,30,5,10:30,11:45,M T W R F   ,TERRIL,222,Cochran,3  
+ENG,024,American Literature,60104,Z1,L,C,20,8,09:00,10:15,M T W R F   ,LAFAYE,L311,Poger,3  
+ENG,041,Detective Fiction,60646,WD,L,M,1,1,TBA,,       ,,,Poger,0
+ENG,041,Detective Fiction,60105,Z1,L,C,30,6,10:30,11:45,M T W R F   ,LAFAYE,L311,Poger,3  
+ENG,057,Race&Ethnicity Lit Stds:Intro,60355,Z1,L,C,18,9,09:30,11:45,M T  R    ,LAFAYE,L202,Dickerson,3  
+ENG,085,Texts & Contexts,60106,Z1,L,C,25,18,09:00,11:00,M T W R F   ,OMANEX,A207,Sweterlits,3  
+ENG,120,Writers' Workshop,60107,Z1,L,C,35,24,08:00,12:15,M T W R F   ,LAFAYE,L210,Huddle,3  
+ENG,161,Modern Short Fiction,60356,Z1,L,C,25,17,09:30,11:30,M T W R F   ,OMANEX,A206,Moore,3  
+ENG,181,Modern Irish Poetry,60108,Z1,L,C,30,7,09:00,11:00,M T W R F   ,LAFAYE,L300,Bradley,3  
+ENG,184,Films & Novels of Stephen King,60373,RU1,L,C,15,2,10:00,12:00,M T W R F   ,,,Magistrale,3  
+ENG,184,Films & Novels of Stephen King,60109,Z1,L,C,45,34,10:00,12:00,M T W R F   ,LAFAYE,L403,Magistrale,3  
+ENG,192,Internship,60476,A,I,M,999,1,TBA,,       ,,,Staff,1 to 6
+ENG,195,Shakespeare&Modern World,60347,Z1,L,C,20,18,16:00,19:15,M T W R    ,LAFAYE,L309,Simone,3
+ENG,195,How to Write about Food&Wine,60357,Z2,L,C,18,18,08:30,12:10,M T W R F   ,LAFAYE,L102,Behr,3
+ENG,196,Intermediate Special Topics,60493,A,L,M,999,0,TBA,,       ,,,Magistrale,1 to 6
+ENG,197,Rdgs & Rsch,60607,A,L,M,999,1,TBA,,       ,,,Magistrale,1 to 6
+ENG,198,Readings & Research,60551,A,L,M,999,1,TBA,,       ,,,Edwards,1 to 6
+ENG,251,Seminar in Faulkner&Morrison,60371,Z1,L,C,18,16,14:00,17:15, T  R    ,LAFAYE,L202,Dickerson,3  
+ENG,295,Thry&Prac in Teaching Writing,60382,Z1,L,C,25,6,09:00,16:00,M T W R    ,L/L-B,B180,McGonegal,3
+ENG,295,Thry&Prac in Teaching Writing,60383,Z2,L,C,25,6,09:00,16:00,M T W R    ,L/L-B,B180,McGonegal,3
+ENG,330,Rdgs in Romantic Literature,60111,Z1,L,C,18,3,09:30,11:30,M T W R F   ,LAFAYE,L202,Stanton,3  
+ENG,360,Images of Africa in World Lit,60230,Z1,L,C,18,11,09:00,12:30,M  W  F   ,LAFAYE,L307,Losambe,3  
+ENG,391,Master's Thesis Research,60473,A,T,M,999,1,TBA,,       ,,,Staff,1 to 6
+ENG,392,Seminar Paper Review,60475,A,L,M,999,0,TBA,,       ,,,Staff,0  
+ENG,397,Special Readings & Research,60474,A,T,M,999,1,TBA,,       ,,,Staff,1 to 3
+ENSC,001,Intro Environmental Sciences,60267,Z1,L,C,24,9,17:00,20:15, T  R    ,AIKEN,104,McIntosh,3  
+ENVS,095,Introduction to Herbalism,60012,Z1,L,C,25,20,08:30,11:45, T  R    ,HILLS,017,Raab,3
+ENVS,191,Environmental Practicum,60516,A,I,M,999,1,TBA,,       ,,,Worley,1 to 9
+ENVS,195,Community Sense of Place,60286,SH1,L,C,25,3,09:00,16:00,M T      ,,,Farley,1
+ENVS,195,Ecological Design & Building,60285,SW1,L,C,25,1,09:00,17:00,M T W R F S U ,,,Hubbard,3
+ENVS,195,Farmland Preservation,60231,Z2,L,C,20,5,09:00,16:00,  W R    ,AIKEN,119,Daniels,1
+ENVS,195,Indigenous Ecologic Knowledge,60232,Z3,L,C,15,8,18:35,21:25,M T W R F   ,AIKEN,119,Appiah-Opo,3
+ENVS,195,Land Conservation:Aims&Methods,60282,Z4,L,C,25,9,09:00,16:00,M T      ,HILLS,234,Libby,1
+ENVS,195,Ecol & Fld Sci in Land Conserv,60283,Z5,L,C,25,4,09:00,16:00,  W R    ,HILLS,234,Paradis,1
+ENVS,195,ST: Ethnobotany,60386,Z6,L,C,15,5,09:00,16:00,M T W R F   ,HILLS,234,Anderson,3
+ENVS,195,Discovering Canada by Canoe,60274,Z7,L,C,10,1,TBA,,       ,,,Massell,3
+ENVS,195,Field Studies in England,60269,Z8,L,C,20,14,09:30,19:00,M T W R F S U ,,,Richardson,3
+ENVS,202,Senior Project and Thesis,60461,A,T,M,999,5,TBA,,       ,,,Worley,1 to 15
+ENVS,295,Environ Educ & Interpret in VT,60211,Z1,L,C,15,6,08:00,17:00,M T W R F   ,AIKEN,119,Hudspeth,3
+ENVS,295,Field Studies in England,60441,Z2,L,C,20,1,09:30,19:00,M T W R F S U ,,,Richardson,3
+ENVS,295,Ethnobotany,60596,Z3,L,C,15,1,09:00,16:00,M T W R F   ,HILLS,234,Anderson,3
+FILM,195,Lit&Film Ital Neorealism&Beyon,60277,Z1,L,C,25,6,09:00,12:00,M T W R F   ,BAILEY,029,Mazzoni,3  
+FOR,122,Forest Ecosystem Analysis,60169,Z1,L,C,14,10,08:00,16:30,M T W R F   ,AIKEN,222,Donnelly,4  
+FOR,185,Undergrad Special Topics,60514,A,L,M,999,1,TBA,,       ,,,Donnelly,0 to 6
+FOR,285,ST: Statistical Analysis,60614,A,L,M,1,1,TBA,,       ,,,Donnelly,1
+FOR,391,Master's Thesis Research,60597,A,T,M,999,1,TBA,,       ,,,Staff,1 to 6
+FREN,001,Elementary I,60013,Z1,L,C,15,6,16:00,18:30,M T W R F   ,WATERM,455,Aunave,4
+FREN,002,Elementary II,60221,Z1,L,C,15,4,16:00,19:00,M T W R F   ,WATERM,455,Aunave,4  
+FREN,051,Intermed Rdg & Conversation I,60222,Z1,L,C,15,5,09:00,11:30,M T W R    ,WATERM,455,Aunave,3  
+FREN,052,Intermed Rdg & Conversation II,60223,Z1,L,C,15,3,09:00,12:00,M T W R    ,WATERM,455,Aunave,0 to 3
+FREN,295,Salon du Cinema:French Convers,60637,WD,L,C,999,0,09:00,12:00,       ,,,,3  
+FREN,295,Salon du Cinema:French Convers,60100,Z1,L,C,20,9,09:00,12:15,M T W R F   ,BAILEY,001,Simon,3  
+GEOG,052,Canada,60014,Z1,L,C,20,4,17:30,21:15, T W R    ,LAFAYE,L202,Deslaurier,3  
+GEOG,061,Vermont in New England,60240,Z1,L,C,44,11,09:00,12:00,M T W R F   ,LAFAYE,L200,Meeks,3  
+GEOG,195,Field Studies in England,60270,Z2,L,C,20,2,09:30,19:00,M T W R F S U ,,,Richardson,3
+GEOG,210,ST:Regional Geography,60015,Z1,L,C,20,2,17:30,21:15, T W R    ,LAFAYE,L202,Deslaurier,3  
+GEOG,210,Vermont Geography,60241,Z2,L,C,44,4,09:00,12:00,M T W R F   ,LAFAYE,L200,Meeks,3  
+GEOL,001,Introductory Geology,60016,Z1,L,C,15,12,09:00,12:00, T  R    ,PERKIN,107,Stanley,4
+GLIT,161,The Holocaust & Holocaust Educ,60197,Z1,L,C,25,3,08:00,16:30,M T W R F   ,KALKIN,101,Bernheim,3  
+GRAD,385,Master's Language Examination,60416,A,T,M,999,0,TBA,,       ,,,Staff,0  
+GRAD,397,Master's Comprehensive Exam,60417,A,T,M,999,27,TBA,,       ,,,Staff,0  
+GRAD,399,Thesis Defense,60418,A,T,M,999,3,TBA,,       ,,,Staff,0  
+GRAD,485,Doctoral Language Examination,60419,A,T,M,999,0,TBA,,       ,,,Staff,0  
+GRAD,497,Doctoral Comprehensive Exam,60420,A,T,M,999,2,TBA,,       ,,,Staff,0  
+GRAD,499,Dissertation Defense,60421,A,T,M,999,2,TBA,,       ,,,Staff,0  
+GRAD,900,Continuous Registration Fee,60422,A,L,M,999,27,TBA,,       ,,,Staff,0  
+GRNU,315,Nurs Issues & Hlth Care Trends,60318,DL1,L,C,30,3,16:00,19:00,M  W  F   ,,,Sowan,3  
+GRNU,315,Nurs Issues & Hlth Care Trends,60317,Z1,L,C,30,8,16:00,19:00,M  W  F   ,LAFAYE,L400,Sowan,3  
+GRNU,320,Rsch: Appl of Qualitative Meth,60320,DL1,L,C,30,3,11:00,14:00,M  W  F   ,,,Hamel-Biss,3  
+GRNU,320,Rsch: Appl of Qualitative Meth,60319,Z1,L,C,30,5,11:00,14:00,M  W  F   ,LAFAYE,L408,Hamel-Biss,3  
+HP,202,Preserving Historic Bridges,60136,Z1,L,C,30,5,08:00,16:00, T W R F S  ,LAFAYE,L302,McCullough,3
+HP,303,Grad Internship,60505,A,I,M,999,1,TBA,,       ,,,Staff,3  
+HST,009,Global History to 1500,60017,Z1,L,C,30,9,09:00,12:00,M T W R F   ,LAFAYE,L200,Gilbert,3
+HST,011,US to 1876,60304,Z1,L,C,30,12,13:00,15:00,M T W R    ,L/L-B,B101,Lund,3  
+HST,012,US Since 1876,60244,Z1,L,C,24,23,09:00,11:00,M T W R    ,ROWELL,110,Lund,3
+HST,023,The Birth of Europe,60079,Z1,L,C,30,9,10:00,12:30,M T W R F   ,LAFAYE,L102,Whalen,3  
+HST,051,China & Japan Since 1800,60080,Z1,L,C,30,4,09:30,12:15,M T W R F   ,ROWELL,244,Horowitz,3  
+HST,184,Vermont History,60206,Z1,L,C,30,10,12:30,15:45,M  W     ,LAFAYE,L210,Searls,3  
+HST,195,Early England,60242,Z2,L,C,30,12,17:30,20:15,M  W  F   ,LAFAYE,L100,Robertson,3  
+HST,195,History of Women in Science,60401,Z4,L,C,20,6,18:00,21:00,M   R    ,LAFAYE,L200,Villemaire,3  
+HST,195,Discovering Canada by Canoe,60273,Z5,L,C,10,4,TBA,,       ,,,Massell,3  
+HST,295,Coming of Canadian Immigrants,60308,Z1,L,C,15,3,09:30,16:30,M T W R F S U ,,,Senecal,3  
+HST,300,History of Women in Science,60402,Z2,L,C,20,1,18:00,21:00,M   R    ,LAFAYE,L200,Villemaire,3
+HST,300,Graduate Tutorial,60449,Z3,L,C,10,2,TBA,,       ,,,Massell,3
+HST,397,Special Readings and Research,60491,A,T,M,1,2,TBA,,       ,,,Gustafson,1 to 18
+HUMN,095,Shakespeare&Modern World,60346,Z1,L,C,0,0,16:00,19:15,M T W R    ,LAFAYE,L309,Simone,3
+HUMN,195,Crisis of Value & Srch Meaning,60085,Z1,L,C,25,7,16:00,18:45,M T W R F   ,WATERM,458,Sugarman,3  
+IS,095,Crisis of Value & Srch Meaning,60086,Z1,L,C,25,3,16:00,18:45,M T W R F   ,WATERM,458,Sugarman,3
+IS,195,Lit&Film of Italian Neo&Beyond,60341,Z2,L,C,25,0,09:00,12:00,M T W R F   ,BAILEY,029,Mazzoni,3  
+IS,195,Discovering Canada by Canoe,60404,Z3,L,C,10,0,TBA,,       ,,,Massell,3  
+IS,295,The Holocaust & Holocaust Educ,60198,Z1,L,C,25,3,08:00,16:30,M T W R F   ,KALKIN,101,Bernheim,3
+IS,296,From Canada to America,60369,Z1,L,C,15,2,09:30,16:30,M T W R F S U ,,,Senecal,3
+ITAL,195,Lit&Film Ital Neorealism&Beyon,60278,Z1,L,C,25,4,09:00,12:00,M T W R F   ,BAILEY,029,Mazzoni,3  
+MATH,001,Elementary College Algebra,60137,Z1,L,C,24,11,09:00,11:00,M T W R    ,VOTEY,367,McAuliffe,3  
+MATH,009,College Algebra,60573,WD,L,C,999,1,09:00,11:00,       ,,,,3  
+MATH,009,College Algebra,60018,Z1,L,C,25,9,18:00,21:25,M   R    ,VOTEY,220,Johansson,3  
+MATH,010,Pre-Calculus Mathematics,60591,WD,L,C,999,1,18:00,21:25,       ,,,,3  
+MATH,010,Pre-Calculus Mathematics,60019,Z1,L,C,30,7,18:00,21:25,M   R    ,COOK,A402,Yu,3  
+MATH,010,Pre-Calculus Mathematics,60138,Z2,L,C,25,12,09:10,11:00,M T W R    ,VOTEY,223,Burgmeier,3  
+MATH,010,Pre-Calculus Mathematics,60554,Z3,L,C,20,16,09:10,11:00,M T W R    ,ROWELL,115,McAuliffe,3  
+MATH,011,Technical Calculus I,60499,A,L,M,2,3,TBA,,       ,,,Johansson,3  
+MATH,017,Applications of Finite Math,60021,Z1,L,C,30,12,18:00,21:25,M   R    ,VOTEY,231,Karstens,3  
+MATH,017,Applications of Finite Math,60140,Z2,L,C,30,16,18:00,21:25,M  W     ,VOTEY,231,McAuliffe,3  
+MATH,019,Fundamentals of Calculus I,60348,RU1,L,C,10,7,17:30,20:30,M  W     ,,,Cramton,3  
+MATH,019,Fundamentals of Calculus I,60022,Z1,L,C,30,17,16:00,17:45,M T W R    ,LAFAYE,L210,Morency,3  
+MATH,020,Fundamentals of Calculus II,60141,Z1,L,C,30,14,18:00,21:25, T  R    ,VOTEY,367,McAuliffe,3  
+MATH,021,Calculus I,60023,Z1,L,C,20,10,16:00,18:15,M T W R    ,VOTEY,254,Johansson,4  
+MATH,022,Calculus II,60142,Z1,L,C,0,12,16:00,17:45,M T W R F   ,VOTEY,367,Read,4  
+MATH,022,Calculus II,60555,Z2,L,C,20,7,16:00,17:45,M T W R F   ,VOTEY,254,Julianelle,4  
+MATH,095,Precalculus Math Review,60394,IBM,L,C,30,2,18:00,21:00,M   R    ,,,Rosebush,2
+MATH,095,Precalculus Math Review,60393,Z1,L,C,5,6,18:00,21:00,M   R    ,LAFAYE,L408,Rosebush,2
+MATH,121,Calculus III,60052,Z1,L,C,20,6,16:00,18:15,M T W R    ,VOTEY,367,Lawlor,4  
+MATH,124,Linear Algebra,60143,Z1,L,C,25,10,16:00,19:25,M   R    ,VOTEY,223,Wilson,3  
+MATH,271,Appl Math for Engr&Scientists,60144,Z1,L,C,25,12,07:30,09:05,M T W R F   ,VOTEY,254,Burgmeier,3  
+MATH,391,Master's Thesis Research,60584,A,T,M,999,0,TBA,,       ,,,Staff,1 to 18
+MATH,491,Doctoral Dissertation Research,60585,A,T,M,999,1,TBA,,       ,,,Staff,1 to 18
+MATS,391,Master's Thesis Research,60522,A,T,M,999,0,TBA,,       ,,,Varhue,1 to 18
+MATS,491,Doctoral Dissertation Research,60523,A,T,M,999,1,TBA,,       ,,,Varhue,1 to 18
+ME,195,ST:Senior Design I,60495,A,L,M,999,1,TBA,,       ,,,Chesler,2
+ME,195,ST:Senior Design II,60622,B,L,M,1,1,TBA,,       ,,,Chesler,1 to 6
+MLS,201,Body Fluid Analysis,60574,A,B,M,1,1,TBA,,       ,,,Reed,1  
+MLS,220,Clinical Practicum: Chemistry,60575,A,B,M,1,1,TBA,,       ,,,Staff,3.5  
+MLS,230,Clinical Practicum: Hematology,60576,A,L,M,1,1,TBA,,       ,,,Reed,2  
+MMG,391,Master's Thesis Research,60439,A,T,M,999,0,TBA,,       ,,,Staff,1 to 18
+MMG,491,Doctoral Dissertation Research,60440,A,T,M,999,10,TBA,,       ,,,Staff,1 to 18
+MPBP,301,Medical Physiology,60227,Z1,L,C,999,22,09:00,15:00,M T W R F   ,GIVN A,,Low,8
+MPBP,391,Master's Thesis Research,60530,A,T,M,999,0,TBA,,       ,,,Staff,1 to 18
+MPBP,491,Doctoral Dissertation Research,60531,A,T,M,999,0,TBA,,       ,,,Staff,1 to 18
+MSTD,101,Special Studies,60546,A,L,M,1,1,TBA,,       ,,,Barr,2  
+MSTD,102,Special Studies,60547,A,L,M,1,1,TBA,,       ,,,Barr,2  
+MUS,095,Discovering Jazz,60024,Z1,L,C,30,16,17:30,20:30,M T  R    ,SOUTHW,202,Stats,3
+MUS,115,History of Rock and Roll,60102,Z1,L,C,30,28,09:30,13:30,M T W R F   ,SOUTHW,202,Stats,3  
+NFS,043,Fundamentals of Nutrition,60004,Z1,L,C,999,16,09:00,12:00,M T W R F   ,ROWELL,110,Carew,3  
+NFS,163,Sports Nutrition,60115,Z1,L,C,20,7,09:10,12:00,M T W R F   ,TERRIL,319,Tyzbir,3  
+NFS,391,Master's Thesis Research,60456,A,T,M,999,0,TBA,,       ,,,Staff,1 to 18
+NR,143,Intro to Geog Info Systems,60168,Z1,B,C,13,8,13:00,17:00,M T W R F   ,AIKEN,102,Morrissey,3
+NR,185,Ecology of Vermont Wetlands,60280,Z3,L,C,14,6,12:30,17:30,M T W R F   ,AIKEN,222,Williams,3
+NR,185,Introduction to ArcView GIS,60400,Z4,L,C,7,8,13:00,17:00,M T W R F   ,AIKEN,102,Morrissey,1.5
+NR,185,Discover the Natural World,60556,Z5,L,C,13,3,09:00,12:00, T      ,AIKEN,105,Strimbeck,3
+NR,285,Ecology of a Large Lake,60120,Z1,L,C,18,5,08:00,17:00,M T W R F   ,AIKEN,202,Watzin,4
+NR,285,Fld Primer Ecosyst&Lndscp Ecol,60172,Z2,L,C,12,7,08:00,17:00,M T W R F S U ,AIKEN,116,Wang,2
+NR,285,Methods for Field Ecologists,60215,Z3,L,C,12,3,09:00,18:00,M T W R F   ,AIKEN,202,Hughes,3
+NR,491,Doctoral Dissertation Rsch,60550,A,T,M,999,1,TBA,,       ,,,Staff,1 to 18
+OSSP,000,Overseas Study Program,60561,A,L,M,999,37,TBA,,       ,,,Staff,12  
+PA,301,Fundamentals of Public Admin,60078,Z1,L,C,20,5,09:00,17:00,     S  ,OLDMIL,523,Ventriss,3  
+PA,302,Public Sector Organizations,60323,DL1,L,C,13,1,16:00,19:30,M T W R    ,,,Lawson,3  
+PA,302,Public Sector Organizations,60321,Z1,L,C,11,2,16:00,19:30,M T W R    ,LAFAYE,L411,Lawson,3  
+PA,318,Admin Theory & Practice,60121,Z1,L,C,20,10,09:00,17:00,   R F S  ,OMANEX,A303,Ventriss,3  
+PA,395,Mgmt of Not-for-Profit Organiz,60234,Z1,L,C,25,10,08:00,12:00,     S  ,OMANEX,A202,Lane,3
+PA,397,Readings & Research,60631,A,T,M,1,0,TBA,,       ,,,Parke,3  
+PATH,295,Pathobiol Human Envir Disease,60216,Z1,L,C,25,5,13:00,15:00,M T W R F   ,GIVN B,B203,Craighead,3
+PEAC,004,Weight Training 1-4,60145,Z1,A,C,25,17,07:30,08:50,M T W R F   ,PATGYM,217,Fischer,1  
+PEAC,021,Walking for Fitness 1-4,60025,Z1,A,C,20,10,16:30,17:50,M T W R F   ,MULTIP,M109,McLaughlin,1
+PEAC,036,Swimming 1-3,60026,Z1,A,C,15,8,07:30,08:50,M T W R F   ,PATGYM,025A,Farrell,1
+PEAC,039,Swim for Fitness,60146,Z1,A,C,15,4,16:00,17:20,M T W R F   ,PATGYM,025A,Fischer,1  
+PEAC,047,Scuba,60081,Z1,A,C,12,4,08:30,13:30, T  R    ,,,Eddy,1  
+PEAC,049,Sailing 1-4,60147,Z1,A,C,16,17,13:00,17:00, T  R    ,,,Greig,1
+PEAC,063,Horseback Riding 1-4,60027,Z1,A,C,75,6,TBA,,M T W R F   ,,,Gifford,0.5  
+PEAC,063,Horseback Riding 1-4,60587,Z2,A,C,1,0,TBA,,M T W R F   ,,,Gifford,0.5  
+PEAC,096,Tennis 1-2,60028,Z1,A,C,16,7,07:30,09:20,M T W R F   ,MULTIP,M101,Reinhardt,1  
+PEAC,096,Tennis 1-2,60029,Z2,A,C,16,9,16:00,17:50,M T W R F   ,MULTIP,M101,Reinhardt,1  
+PEAC,098,Tennis 3-4,60030,Z1,A,C,16,7,09:30,11:20,M T W R F   ,MULTIP,M101,Reinhardt,1  
+PEAC,113,Golf 1-4,60054,Z1,A,C,12,11,07:30,09:20,M T W R F   ,GUTRSN,103,Currier,1  
+PEAC,113,Golf 1-4,60055,Z2,A,C,12,12,09:30,11:20,M T W R F   ,GUTRSN,103,Currier,1  
+PEAC,113,Golf 1-4,60056,Z3,A,C,12,10,11:30,13:20,M T W R F   ,GUTRSN,103,Currier,1  
+PEAC,199,T'ai Chi,60110,Z1,A,C,25,3,07:30,09:20,M T W R F   ,MULTIP,M109,Schneider,1
+PHIL,144,Philosophical Prob Medicine,60450,Z1,L,C,30,11,16:40,18:40,M T W R    ,OLDMIL,523,Kuflik,3  
+PHRM,301,Medical Pharmacology,60228,Z1,L,C,100,23,09:00,15:00,M T W R F   ,GIVN B,B333,McCormack,6
+PHRM,391,Master's Thesis Research,60462,A,T,M,999,0,TBA,,       ,,,Staff,1 to 12
+PHRM,491,Doctoral Dissertation Research,60463,A,T,M,999,1,TBA,,       ,,,Staff,1 to 12
+PHYS,010,Descriptive Astronomy,60148,Z1,L,C,25,13,09:15,12:25,M  W  F   ,ANGELL,B203,Perry,3  
+PHYS,011,Elementary Physics,60031,Z1,L,C,40,22,09:00,11:45,M T  R F   ,ANGELL,B112,Spartalian,4
+PHYS,012,Elementary Physics,60149,Z1,L,C,40,24,09:00,11:45,M T  R F   ,ANGELL,B112,Ross,4
+PHYS,021,Introductory Lab I,60032,Z1,B,C,18,14,12:00,14:30,M   R    ,COOK,A409,Spartalian,1  
+PHYS,021,Introductory Lab I,60033,Z2,B,C,18,4,12:00,14:30, T   F   ,COOK,A409,Spartalian,1  
+PHYS,022,Introductory Lab II,60150,Z1,B,C,18,16,12:00,14:30,M   R    ,COOK,A410,Ross,1  
+PHYS,022,Introductory Lab II,60151,Z2,B,C,18,10,12:00,14:30, T   F   ,COOK,A410,Ross,1  
+PHYS,031,Introductory Physics,60034,Z1,L,C,25,7,09:00,11:45,M T  R F   ,COOK,A402,Karstens,4
+PHYS,042,Electromagnetism & Modern Phys,60451,Z1,L,C,36,5,09:00,11:45,M T  R F   ,ANGELL,B104,Bryant,4
+POLS,021,American Political System,60082,Z1,L,C,25,12,13:00,16:30,M T W R F   ,LAFAYE,L102,Guber,3  
+POLS,021,American Political System,60246,Z2,L,C,14,13,09:00,11:00,M T W R    ,LAFAYE,L111,Bryan,3  
+POLS,041,Intro Prob Political Thought,60594,Z2,L,C,1,0,TBA,,       ,,,Kaufman,3  
+POLS,051,Intro International Relations,60152,Z1,L,C,20,8,09:00,12:30,M T W R F   ,LAFAYE,L102,Stavrakis,3  
+POLS,123,The Vermont Political System,60153,Z1,L,C,20,14,16:00,19:30,M T W R F   ,OLDMIL,523,Bryan,3  
+POLS,124,The Presidency,60116,Z1,L,C,20,10,09:00,12:15,M T W R F   ,OLDMIL,523,Burke,3  
+POLS,129,Const Law:Civil Rights America,60154,Z1,L,C,20,12,09:00,12:30,M T W R F   ,LAFAYE,L300,Ball,3  
+POLS,137,Politics and The Media,60057,Z1,L,C,20,12,13:00,16:15,M T W R    ,LAFAYE,L111,Gierzynski,3  
+POLS,192,Internships,60452,A,I,M,999,2,TBA,,       ,,,Burke,1 to 6
+POLS,198,Readings & Research,60527,A,T,M,999,1,TBA,,       ,,,Ball,1 to 6
+POLS,249,20th Century Political Thought,60071,Z1,L,C,15,6,09:00,12:30,M T W R F   ,OLDMIL,523,Neal,3  
+POLS,391,Master's Thesis Research,60648,A,T,M,1,1,TBA,,       ,,,Staff,3
+PRNU,112,Intro to Nursing Informatics,60385,Z1,L,C,10,5,16:00,20:00,M  W  F   ,ROWELL,104,Gagne,1
+PRNU,113,Assess&Promo Hlth Ind Fam Comm,60287,Z1,L,C,18,6,16:30,20:00,M T W R    ,ROWELL,239,Wheeler,5
+PRNU,195,Phys Assessment for RNs,60544,A,L,C,8,2,16:30,20:00,M T W R    ,ROWELL,110,Wheeler,3
+PSS,197,Undergrad Special Topics,60480,A,L,M,999,0,TBA,,       ,,,Starrett,1 to 15
+PSS,297,Special Topics,60481,A,L,M,999,1,TBA,,       ,,,Skinner,0 to 3
+PSS,297,Special Topics,60515,B,L,M,1,1,TBA,,       ,,,Marchant,1
+PSS,391,Master's Thesis Research,60538,A,T,M,999,0,TBA,,       ,,,Staff,1 to 18
+PSS,491,Doctoral Dissertation Research,60539,A,T,M,999,1,TBA,,       ,,,Staff,1 to 18
+PSTG,299,Visiting Grad,60595,A,I,M,999,2,TBA,,       ,,,Staff,0  
+PSTG,888,Cooperative Ed Experience:AS,60490,B,I,M,999,2,TBA,,       ,,,Staff,0  
+PSTG,888,Cooperative Ed Experience:EM,60557,C,I,M,999,29,TBA,,       ,,,Staff,0  
+PSTG,888,Cooperative Ed Experience:BA,60560,D,I,M,999,2,TBA,,       ,,,Staff,0  
+PSTG,888,Cooperative Ed Experience:ED,60559,H,I,M,999,1,TBA,,       ,,,Staff,0  
+PSTG,888,Cooperative Ed Experience:GR,60558,I,I,M,999,2,TBA,,       ,,,Staff,0  
+PSYC,001,General Psychology,60155,Z1,L,C,30,14,14:00,16:30,M T W R    ,DEWEY,212,Mishkind,3
+PSYC,001,General Psychology,60245,Z2,L,C,25,21,09:00,11:00,M T W R    ,DEWEY,132,Yadav,3
+PSYC,001,General Psychology,60602,Z3,L,C,20,9,09:00,11:00,M T W R    ,DEWEY,212,Cain,3
+PSYC,015,Improv Memory Motiv&Cog Skills,60562,Z1,L,C,20,9,13:00,15:00,M T W R F   ,DEWEY,238,Herrera-Le,3  
+PSYC,095,Improv Memory Motiv&Cog Skills,60563,Z1,L,C,20,6,11:10,12:00, T W R    ,VOTEY,254,Kamon,1
+PSYC,095,Improv Memory Motiv&Cog Skills,60564,Z2,L,C,20,3,11:10,12:00, T W R    ,DEWEY,132,Bailey,1
+PSYC,095,Improv Memory Motiv&Cog Skills,60565,Z3,L,C,20,7,11:10,12:00, T W R    ,DEWEY,238,Roy,1
+PSYC,095,Improv Memory Motiv&Cog Skills,60566,Z4,L,C,20,8,11:10,12:00, T W R    ,DEWEY,212,Saucier,1
+PSYC,111,Psychology of Decision Making,60156,Z1,L,C,0,7,17:00,19:45, T W R    ,DEWEY,238,Gordon,3  
+PSYC,119,History of Psychology,60519,Z1,L,C,5,3,TBA,,       ,,,Lawson,3  
+PSYC,130,Social Psychology,60060,Z1,L,C,20,16,18:00,21:45, T  R    ,TORREY,203,Leff,3  
+PSYC,152,Abnormal Psychology,60061,Z1,L,C,25,21,17:30,20:00, T W R    ,DEWEY,132,Solomon,3  
+PSYC,161,Developmental Psyc:Childhood,60176,Z1,L,C,20,7,09:30,12:00,M T W R    ,DEWEY,126A,Burns,3  
+PSYC,198,Independent Study,60464,A,I,M,999,1,TBA,,       ,,,Staff,1 to 6
+PSYC,231,Psychology of Women,60157,Z1,L,C,25,8,17:00,19:45,M T  R    ,DEWEY,132,Burrous,3  
+PSYC,233,Experience & Creativity,60159,Z1,L,C,0,20,18:00,21:45, T  R    ,TORREY,203,Leff,3  
+PSYC,237,Cross-Cultural Communication,60467,A,L,M,1,1,TBA,,       ,,,Yadav,3  
+PSYC,240,Organizational Psychology,60324,DL1,L,C,12,2,16:00,19:30,M T W R    ,,,Lawson,3  
+PSYC,240,Organizational Psychology,60322,Z1,L,C,10,7,16:00,19:30,M T W R    ,LAFAYE,L411,Lawson,3  
+PSYC,250,Intro to Clinical Psychology,60072,Z1,L,C,25,7,13:00,16:00,M  W R    ,DEWEY,132,Myers,3  
+PSYC,266,Communication & Children,60091,Z1,L,C,25,8,16:30,19:45,M T W R    ,DEWEY,126A,Yadav,3  
+PSYC,295,Drug Abuse,60160,Z1,L,C,25,7,17:30,20:30,M T  R    ,DEWEY,212,Riggs,3
+PSYC,380,Brief Psychotherapy,60122,Z1,L,C,20,6,08:00,12:30,M T W R F   ,WATERM,457,Gottlieb,3  
+PSYC,391,Master's Thesis Rsch,60465,A,T,M,999,0,TBA,,       ,,,Staff,1 to 18
+PSYC,491,Doctoral Dissertation Research,60466,A,T,M,999,7,TBA,,       ,,,Staff,1 to 18
+PT,391,Master Thesis Research,60601,A,T,M,999,1,TBA,,       ,,,Staff,1 to 12
+REL,080,Religion & Race in America,60403,Z1,L,C,18,9,09:00,12:00,M T W R F   ,481 MN,104,Walker,3  
+REL,095,Crisis of Value & Srch Meaning,60592,WD,L,C,999,1,09:00,12:00,       ,,,,3  
+REL,095,Crisis of Value & Srch Meaning,60084,Z1,L,C,25,6,16:00,18:45,M T W R F   ,WATERM,458,Sugarman,3  
+SOC,001,Introduction to Sociology,60035,Z1,L,C,25,8,09:00,11:45,M T W R F   ,LAFAYE,L100,Danigelis,3  
+SOC,001,Introduction to Sociology,60087,Z2,L,C,25,7,10:00,12:30,M T W R F   ,LAFAYE,L100,Diouf,3  
+SOC,001,Introduction to Sociology,60437,Z3,L,C,25,14,09:00,11:00,M T W R    ,ROWELL,244,Huisman,3  
+SOC,011,Social Problems,60332,Z1,L,C,25,5,14:00,16:45,M T W R F   ,LAFAYE,L200,Berkowitz,3  
+SOC,019,Race Relations in the US,60089,Z1,L,C,25,22,14:00,16:45,M T W R F   ,LAFAYE,L200,Diouf,3  
+SOC,019,Race Relations in the US,60092,Z2,L,C,20,14,14:00,16:30,M T W R F   ,LAFAYE,L102,Berkowitz,3  
+SOC,019,Race Relations in the US,60618,Z3,L,C,18,5,10:00,12:45,M T W R F   ,LAFAYE,L307,Berkowitz,3  
+SOC,118,Race  Crime&Criminal Justice,60062,Z1,L,C,25,8,17:00,20:15, T  R    ,31 SPR,100,Fishman,3  
+SOC,154,Social Org of Death & Dying,60117,Z1,L,C,25,13,12:30,15:00,M T W R F   ,LAFAYE,L300,Cowan,3  
+SOC,178,Development of Soc Theory,60063,Z1,L,C,0,17,18:00,21:15, T  R    ,WATERM,427,Sampson,3  
+SOC,195,Self-Empowerment & Society,60118,Z1,L,C,20,6,09:30,12:00,M T W R F   ,LAFAYE,L311,Fengler,3
+SOC,214,Delinquency,60073,Z1,L,C,0,21,10:00,12:45,M T W R F   ,WATERM,401,Fox,3  
+SOC,279,Contemporary Sociological Thry,60094,Z1,L,C,20,8,14:00,16:30,M T W R    ,LAFAYE,L311,Barton,3  
+SOC,295,Self-Empowerment & Society,60119,Z2,L,C,20,6,09:30,12:00,M T W R F   ,LAFAYE,L311,Fengler,3  
+SPAN,051,Intermed Rdg & Conversation I,60398,Z1,L,C,20,4,09:00,11:30,M T W R    ,WATERM,400,Suro,3
+SPAN,052,Intermed Rdg & Conversation II,60399,Z1,L,C,20,7,09:00,12:00,M T W R    ,WATERM,456,Suro,3
+SPAN,295,Adv Oral & Written Expression,60162,Z1,L,C,15,9,16:00,19:00,M T W R F   ,ROWELL,242,Green,3  
+SPCH,011,Effective Speaking,60036,Z1,L,C,15,15,09:30,12:00,M T W R F   ,OMANEX,A202,Snider,3  
+SPCH,011,Effective Speaking,60037,Z2,L,C,20,5,11:00,12:50,M T W R    ,LAFAYE,L308,Massey,3  
+SPCH,011,Effective Speaking,60088,Z3,L,C,20,8,14:30,17:30,M T W R F   ,LAFAYE,L308,Massey,3  
+SPCH,011,Effective Speaking,60163,Z4,L,C,20,17,14:00,16:15,M T W R F   ,RT THR,210,Abel,3  
+STAT,011,Intro to Stats via Microcomp,60497,A,L,M,4,1,TBA,,       ,,,Son,3  
+STAT,051,Probability With Statistics,60498,B,L,M,4,2,TBA,,       ,,,Son,3  
+STAT,051,Probability With Statistics,60038,Z1,L,C,25,4,17:30,21:15,M  W     ,HILLS,234,Aleong,3  
+STAT,111,Elements of Statistics,60064,Z1,L,C,30,11,17:30,21:15, T  R    ,VOTEY,207,Weaver,3  
+STAT,141,Basic Statistical Methods,60065,Z1,L,C,30,15,17:30,21:15, T  R    ,LAFAYE,L200,MacPherson,3  
+STAT,151,Applied Probability,60066,Z1,L,C,20,6,17:30,21:15, T  R    ,HILLS,234,Aleong,3  
+STAT,211,Statistical Methods I,60076,Z1,L,C,25,8,17:30,21:15,M  W     ,KALKIN,110,Son,3  
+STAT,225,Applied Regression Analysis,60077,Z1,L,C,20,7,17:30,21:15, T  R    ,KALKIN,325,Son,3  
+STAT,381,Statistical Research,60641,A,T,M,1,1,TBA,,       ,,,Haugh,3
+SWSS,005,Biosociopolitical Issues SW,60097,Z1,L,C,30,17,17:30,20:55,M  W     ,LAFAYE,L311,Larson,3  
+SWSS,200,Quant Meths Social Work Rsch,60075,Z2,L,C,20,13,17:00,20:15, T  R    ,WATERM,413,Widrick,3
+SWSS,200,Internatn'l Sem in Social Work,60271,Z3,L,C,15,3,TBA,,       ,,,Witkin,3
+SWSS,295,Lab Experience,60532,A,L,M,1,1,TBA,,       ,,,Roche,5
+SWSS,332,SW w/Battered Women&Children,60235,Z1,L,C,15,9,17:00,21:00, T  R    ,LAFAYE,L311,Cass,3  
+SWSS,333,Social Work with Groups,60164,Z1,L,C,15,9,16:30,20:00,M  W     ,KALKIN,003,McKenna,3  
+SWSS,380,Internatn'l Sem in Social Work,60272,Z1,L,C,15,8,TBA,,       ,,,Witkin,3  
+THE,005,Oral Interpretation of Lit,60128,Z2,L,C,20,1,08:00,12:00,M T W R F   ,LAFAYE,L210,Abel,3  
+THE,010,Acting I: Intro to Acting,60448,Z2,L,C,12,7,09:00,11:00,M T W R    ,,,Nash,3  
+THE,195,Drawing from the Figure,60049,Z1,L,C,12,1,14:00,17:15, T W R    ,RT THR,210,Thaler,3
+THE,195,Special Topics,60500,Z2,L,C,12,0,18:30,21:30, T W R    ,RT THR,210,Thaler,3
+WFB,131,Field Ornithology,60175,Z1,L,C,25,12,06:00,18:00,M T W R F   ,AIKEN,119,Capen,2  
+WFB,150,Wldlf Habitat & Pop Measrmnt,60174,Z1,L,C,25,5,06:00,18:00,M T W R F   ,AIKEN,119,Capen,1  
+WFB,187,Undergrad Special Projects,60598,A,L,M,999,0,TBA,,       ,,,Hirth,1 to 5
+WFB,287,Advanced Special Projects,60599,A,L,M,999,0,TBA,,       ,,,Hirth,1 to 6
+WFB,391,Master's Thesis Research,60553,A,T,M,999,1,TBA,,       ,,,Staff,1 to 18
+WR,391,Master Thesis Rsch,60578,A,T,M,999,1,TBA,,       ,,,Staff,1 to 12
+WST,073,Intro to Women's Studies,60042,Z1,L,C,20,5,17:30,21:00, T  R    ,LAFAYE,L307,Corley-Car,3  
+WST,095,History of Women in Science,60096,Z1,L,C,20,2,18:00,21:00,M   R    ,LAFAYE,L200,Villemaire,3
+WST,195,In Her Studio:Wmn Visual Arts,60275,Z1,L,C,20,3,16:00,19:30, T  R    ,LAFAYE,L307,Stone,3
+WST,271,Psychology of Women,60158,Z1,L,C,25,3,17:00,19:45,M T  R    ,DEWEY,132,Burrous,3  
