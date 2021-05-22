@@ -13,6 +13,7 @@ Project Specifications:
 Database Schema:
 
 Subjects                    Class
+
 | id | subject | f_key |    | id | teacher | year | f_key |
 |----|--------:|-------|    |----|--------:|------|-------|
 | 01 | CS008   | 1     |    | 01 | Bob     | 2017 | 1     |
