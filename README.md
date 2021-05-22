@@ -14,6 +14,7 @@ Database Schema:
 
 Subjects                    Class
 | id | subject | f_key |    | id | teacher | year | f_key |
+|----|--------:|-------|    |----|--------:|------|-------|
 | 01 | CS008   | 1     |    | 01 | Bob     | 2017 | 1     |
 | 02 | CS021   | 0     |    | 02 | Bob     | 2018 | 1     |
 | 03 | CS124   | 2     |    | 03 | Lisa    | 2017 | 2     |
